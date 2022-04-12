@@ -1,0 +1,27 @@
+hypothesis_processed/SAE_cleaned.txt
+INSERTIONS:
+that                          1
+slog                          1
+DELETIONS:
+had                           2
+i                             1
+ten                           1
+and                           1
+or                            1
+english                       1
+SUBSTITUTIONS:
+women                -> woman                           1
+wrote                -> rode                            1
+hear                 -> heard                           1
+whisperer            -> whisper                         1
+shepards             -> shepherds                       1
+approach             -> approached                      1
+what                 -> with                            1
+sheer                -> share                           1
+slaughter            -> with                            1
+towards              -> toward                          1
+man                  -> englishman                      1
+Sentence count: 25
+WER:     7.491% (        20 /        267)
+WRR:    93.258% (       249 /        267)
+SER:    56.000% (        14 /         25)

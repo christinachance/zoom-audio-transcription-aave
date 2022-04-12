@@ -1,0 +1,148 @@
+hypothesis_processed/AAVE_cleaned.txt
+INSERTIONS:
+are                           3
+got                           3
+one                           2
+a                             2
+bout                          1
+at                            1
+thousand                      1
+hundred                       1
+then                          1
+we                            1
+bliss                         1
+me                            1
+in                            1
+found                         1
+because                       1
+nick                          1
+but                           1
+let                           1
+it                            1
+library                       1
+i                             1
+am                            1
+you                           1
+know                          1
+and                           1
+DELETIONS:
+am                            7
+what                          5
+i                             5
+ai                            3
+so                            2
+like                          2
+dollars                       2
+not                           1
+she                           1
+and                           1
+low                           1
+my                            1
+spot                          1
+gone                          1
+we                            1
+im                            1
+parking                       1
+fuck                          1
+saying                        1
+gave                          1
+then                          1
+um                            1
+or                            1
+a                             1
+hookah                        1
+smoke                         1
+SUBSTITUTIONS:
+its                  -> is                              4
+gotta                -> to                              2
+cause                -> because                         2
+lets                 -> us                              2
+door                 -> dough                           2
+finna                -> gonna                           1
+gone                 -> gonna                           1
+see                  -> nc                              1
+boutta               -> to                              1
+not                  -> shane                           1
+eleven               -> and                             1
+for                  -> three                           1
+vibes                -> revives                         1
+finna                -> a                               1
+drink                -> train                           1
+cause                -> it                              1
+nah                  -> now                             1
+key                  -> locally                         1
+plan                 -> play                            1
+niggas               -> is                              1
+was                  -> so                              1
+at                   -> so                              1
+my                   -> i                               1
+place                -> was                             1
+the                  -> a                               1
+other                -> replaced                        1
+day                  -> today                           1
+came                 -> can                             1
+through              -> not                             1
+and                  -> go                              1
+he                   -> be                              1
+was                  -> like                            1
+like                 -> a                               1
+aye                  -> brother                         1
+bruh                 -> let                             1
+and                  -> spike                           1
+am                   -> say                             1
+saying               -> it                              1
+he                   -> you                             1
+bruh                 -> red                             1
+hit                  -> want                            1
+the                  -> to                              1
+spot                 -> despite                         1
+bruh                 -> it                              1
+night                -> now                             1
+a                    -> it                              1
+am                   -> m                               1
+bruh                 -> run                             1
+bruh                 -> just                            1
+gonna                -> who                             1
+alright              -> i                               1
+yeah                 -> eyes                            1
+so                   -> or                              1
+it                   -> they                            1
+is                   -> are                             1
+forty                -> followed                        1
+dollars              -> out                             1
+forty                -> holy                            1
+dollars              -> dialus                          1
+it                   -> parting                         1
+alright              -> sorry                           1
+him                  -> the                             1
+the                  -> gary                            1
+forty                -> photos                          1
+dollars              -> and                             1
+at                   -> out                             1
+the                  -> of                              1
+men                  -> me                              1
+men                  -> man                             1
+they                 -> you                             1
+like                 -> all                             1
+damn                 -> right                           1
+i                    -> dame                            1
+need                 -> let                             1
+some                 -> me                              1
+titties              -> see                             1
+saying               -> said                            1
+gets                 -> get                             1
+not                  -> and                             1
+of                   -> in                              1
+nothing              -> the                             1
+saying               -> some                            1
+you                  -> hog                             1
+know                 -> the                             1
+the                  -> small                           1
+how                  -> i                               1
+people               -> will                            1
+getting              -> get                             1
+hyped                -> hype                            1
+Sentence count: 26
+WER:    45.867% (       172 /        375)
+WRR:    62.400% (       234 /        375)
+SER:    96.154% (        25 /         26)

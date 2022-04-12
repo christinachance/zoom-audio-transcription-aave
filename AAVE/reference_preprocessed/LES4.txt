@@ -1,0 +1,41 @@
+Line	Spkr	StTime	Content	EnTime
+1	LES_int_01	0.2057	If I asked you to think ahead, ten, twenty years, like	3.3053
+2	LES_int_01	3.3053	(pause 0.15)	3.4589
+3	LES_int_01	3.4589	what do you think is going to happen to this neighborhood? What do you think it's going to be like?	6.0960
+4	LES_se0_ag2_f_02	9.4194	It's gonna be somebody's euphoria.	10.8726
+5	LES_se0_ag2_f_02	10.8726	(pause 0.61)	11.4873
+6	LES_se0_ag2_f_02	11.4873	But it ain't- It's not- it's definitely not going to be what it is now.	13.5887
+7	LES_int_01	13.7599	Yeah.	14.1375
+8	LES_se0_ag2_f_02	14.5414	Think all the projects, ten, twenty years, all the projects are going to be co-op- co-ops, condos, [something like that.]	19.4557
+9	LES_int_01	18.5908	[Do you think so?]	19.4557
+10	LES_se0_ag2_f_02	19.6972	Hell yeah.	20.0925
+11	LES_se0_ag2_f_02	20.0925	(pause 0.28)	20.3689
+12	LES_se0_ag2_f_02	20.3689	I tell my grandma all the time,	21.6421
+13	LES_se0_ag2_f_02	21.6421	(pause 1.00)	22.6415
+14	LES_se0_ag2_f_02	22.6415	you better get out of here before you s	23.9455
+15	LES_se0_ag2_f_02	23.9455	(pause 0.16)	24.1035
+16	LES_se0_ag2_f_02	24.1035	before you living on a barge in the East /ridger-/ [river.]	26.1626
+17	LES_int_01	26.0572	[Sh.]	26.4918
+18	LES_se0_ag2_f_02	26.4918	And people think I'm	27.2074
+19	LES_se0_ag2_f_02	27.3348	and I'm like [serious. You better find and have a plan B.]	30.1255
+20	LES_int_01	28.1445	[You're right, it is serious.]	30.1255
+21	LES_int_01	30.3933	[Yeah.]	30.7708
+22	LES_se0_ag2_f_02	30.4815	[You better get] a plan B. Because the same thing that happened in Chicago, them tearing down	33.5235
+23	LES_se0_ag2_f_02	33.8748	all those housing [developments.]	35.3879
+24	LES_int_01	34.8215	[Yeah.]	35.2584
+25	LES_se0_ag2_f_02	35.6733	And it's nothing that's in there now, nobody's doing anything with them now.	38.8606
+26	LES_se0_ag2_f_02	38.8606	(pause 0.42)	39.2777
+27	LES_se0_ag2_f_02	39.2777	That could be- that could be so us. I don't know. I won't even give it ten years.	42.7708
+28	LES_int_01	43.7323	Really?	44.1055
+29	LES_se0_ag2_f_02	44.3338	[No.]	44.6235
+30	LES_int_01	44.4304	[You] think that's about to happen. [Yeah, I've heard] a lot of talk about that.	47.5118
+31	LES_se0_ag2_f_02	45.9181	[Mm-hm.]	46.4670
+32	LES_se0_ag2_f_02	46.4670	(pause 1.04)	47.5118
+33	LES_se0_ag2_f_02	47.5118	Especially if Bloomberg is <laugh>	49.1098
+34	LES_se0_ag2_f_02	50.7722	back [in office.]	51.5010
+35	LES_int_01	51.0444	[Goes for] another-	51.8917
+36	LES_se0_ag2_f_02	51.9444	Yeah, another [term.]	53.0025
+37	LES_int_01	52.5327	[another term.]	53.5820
+38	LES_se0_ag2_f_02	53.7137	And God knows what's gonna happen if McCain wins, but you know.	56.2278
+39	LES_int_01	56.2278	[Oh, dear.]	57.0927
+40	LES_se0_ag2_f_02	56.4737	[We don't know what's gonna happen] with Obama either.	58.0717

@@ -1,0 +1,1476 @@
+Line	Spkr	StTime	Content	EnTime
+1	LES_int_01	0.3593	We're back on. Okay, so I mean	1.9468
+2	LES_int_01	1.9468	(pause 0.24)	2.1851
+3	LES_int_01	2.1851	so, there's a couple like f-	3.3817
+4	LES_int_01	3.3817	(pause 0.63)	4.0155
+5	LES_int_01	4.0155	s- forces going on right? I mean this- there's some stuff-	6.7673
+6	LES_int_01	6.7673	(pause 0.10)	6.8648
+7	LES_int_01	6.8648	still some tough stuff happening in your community, but at the same time, now, back this gentrification.	12.0957
+8	LES_se0_ag2_f_01	12.2907	[Yeah.]	12.7427
+9	LES_int_01	12.4016	[That's coming] in.	13.2487
+10	LES_se0_ag2_f_01	13.2709	And then. [Okay.]	13.8192
+11	LES_int_01	13.6508	[So, how do things] interact? Like [/inaudible/]	16.0041
+12	LES_se0_ag2_f_01	13.9079	[This is.]	14.4219
+13	LES_se0_ag2_f_01	14.4219	(pause 1.03)	15.4545
+14	LES_se0_ag2_f_01	15.4545	[Alright. I got] friends from w- from [college.]	17.9452
+15	LES_int_01	17.8964	[Yeah.]	18.2465
+16	LES_se0_ag2_f_01	18.2465	And they come down here and they're pissed off	19.9395
+17	LES_se0_ag2_f_01	20.5327	about what the change has been.	21.8578
+18	LES_int_01	21.9908	[Yeah.]	22.2966
+19	LES_se0_ag2_f_01	22.1459	[Because]	22.6289
+20	LES_se0_ag2_f_01	22.9392	they w- g- they remember when this place when nobody really wanted to be here.	26.2920
+21	LES_int_01	26.3718	Right.	26.7219
+22	LES_se0_ag2_f_01	26.8637	And, so when the first, when like- when the	28.4865
+23	LES_se0_ag2_f_01	28.4865	(pause 0.19)	28.6727
+24	LES_se0_ag2_f_01	28.6727	bars started first, like tha- remember I told you that close	31.1899
+25	LES_se0_ag2_f_01	31.1899	(pause 0.38)	31.5710
+26	LES_se0_ag2_f_01	31.5710	the up close? [Like the beautiful.]	32.9094
+27	LES_int_01	32.1923	[Yeah.]	32.7197
+28	LES_se0_ag2_f_01	33.1487	So, you see bars and	34.2347
+29	LES_se0_ag2_f_01	34.2347	(pause 0.24)	34.4784
+30	LES_se0_ag2_f_01	34.4784	I'm twenty-one, and I'm like, yeah, I can drink [and]	37.0178
+31	LES_int_01	36.9070	[Yeah.]	37.3591
+32	LES_se0_ag2_f_01	37.3591	I'm identifying with my community in a different way. [I'm older.]	40.1643
+33	LES_int_01	39.4242	[Right.]	39.8497
+34	LES_se0_ag2_f_01	40.4923	I'm a-	40.7493
+35	LES_se0_ag2_f_01	40.7493	(pause 0.12)	40.8699
+36	LES_se0_ag2_f_01	40.8699	coming home from college and	42.4018
+37	LES_se0_ag2_f_01	42.4018	(pause 0.40)	42.8023
+38	LES_se0_ag2_f_01	42.8023	wow. This is, you know.	44.0034
+39	LES_se0_ag2_f_01	44.0034	(pause 0.14)	44.1408
+40	LES_se0_ag2_f_01	44.1408	This- I- cause I went away to school, but um.	46.1484
+41	LES_se0_ag2_f_01	46.1484	(pause 0.42)	46.5694
+42	LES_se0_ag2_f_01	46.5694	It was very close. So, [I w- sometimes] I came home on the weekends.	49.1304
+43	LES_int_01	47.5615	[Yeah.]	47.8518
+44	LES_int_01	49.1304	Okay.	49.5207
+45	LES_se0_ag2_f_01	49.6311	Um. Especially when I stopped playing basketball and	52.1129
+46	LES_se0_ag2_f_01	52.1129	(pause 0.17)	52.2858
+47	LES_se0_ag2_f_01	52.2858	I used to work here. So I- since I- you know I said-	54.1536
+48	LES_se0_ag2_f_01	54.1536	(pause 0.45)	54.6019
+49	LES_se0_ag2_f_01	54.6019	you [know, st-]	55.3509
+50	LES_int_01	54.9609	[/Yet/] you stayed kind of connected.	56.6709
+51	LES_se0_ag2_f_01	56.6228	Yeah. Very	57.0704
+52	LES_se0_ag2_f_01	57.1723	yeah. So I stayed /conne-/ connected.	58.7279
+53	LES_se0_ag2_f_01	58.7279	(pause 0.47)	59.1939
+54	LES_se0_ag2_f_01	59.1939	And um.	59.6282
+55	LES_se0_ag2_f_01	59.6282	(pause 0.97)	60.5999
+56	LES_se0_ag2_f_01	60.5999	Yeah, we'd come down. We'd come down here	62.2307
+57	LES_se0_ag2_f_01	62.2307	(pause 0.23)	62.4612
+58	LES_se0_ag2_f_01	62.4612	And we'd frolic these little- we'd frequent these little bars and stuff like [that.]	65.8110
+59	LES_int_01	65.4564	[Yeah.] Yeah.	66.1788
+60	LES_se0_ag2_f_01	66.2541	And um, people from the neighborhood was in the bars.	68.5492
+61	LES_int_01	68.7619	Yeah.	69.1120
+62	LES_se0_ag2_f_01	69.2273	And I would go in there and be like	70.0161
+63	LES_se0_ag2_f_01	70.0161	(pause 0.10)	70.1180
+64	LES_se0_ag2_f_01	70.1180	oh, oh yeah, we're all grown up, we can drink, uh.	72.7925
+65	LES_int_01	72.8723	<laugh> [Right.]	73.7365
+66	LES_se0_ag2_f_01	73.5194	[And I] thought, aye this is nice.	75.4693
+67	LES_se0_ag2_f_01	75.7264	[Oh. I'm seeing] some trees and some nice good things happening. 	78.3336
+68	LES_int_01	75.7264	[Yeah.]	76.0955
+69	LES_int_01	78.3336	Yeah.	78.8388
+70	LES_se0_ag2_f_01	78.8388	Hm.	79.1740
+71	LES_se0_ag2_f_01	79.6083	This is good.	80.6276
+72	LES_int_01	80.8536	Right.	81.1949
+73	LES_se0_ag2_f_01	81.7400	I'm seeing a patch of grass.	83.3443
+74	LES_int_01	83.3620	[Yeah.]	83.8938
+75	LES_se0_ag2_f_01	83.7165	[You don't] see a patch of grass, now you put it next to a church.	86.2349
+76	LES_se0_ag2_f_01	86.5495	Now, we seeing a patch of grass	87.8303
+77	LES_se0_ag2_f_01	87.8303	(pause 0.26)	88.0918
+78	LES_se0_ag2_f_01	88.0918	in a place where I used to s- play with glass.	90.1714
+79	LES_se0_ag2_f_01	90.1714	(pause 0.26)	90.4329
+80	LES_se0_ag2_f_01	90.4329	[Like I just told you, now it's] grass here.	92.4183
+81	LES_int_01	90.4329	[Yeah.]	91.0622
+82	LES_int_01	91.0622	(pause 0.16)	91.2262
+83	LES_int_01	91.2262	[Yeah.]	91.6963
+84	LES_int_01	93.0432	[And is that what other] people thought?	94.5791
+85	LES_se0_ag2_f_01	93.2318	[This is good.]	93.9099
+86	LES_se0_ag2_f_01	94.6544	Yeah. [This is.]	95.3192
+87	LES_int_01	95.0141	[initially, they were like-]	96.0599
+88	LES_se0_ag2_f_01	95.6028	[Yeah.]	95.9618
+89	LES_se0_ag2_f_01	96.1833	This is good.	96.7550
+90	LES_int_01	96.7550	you're like alright.	97.6015
+91	LES_se0_ag2_f_01	97.6015	Yeah.	97.8674
+92	LES_se0_ag2_f_01	98.0004	The waterfront.	98.6996
+93	LES_se0_ag2_f_01	98.6996	(pause 0.31)	99.0098
+94	LES_se0_ag2_f_01	99.0098	It was, you know, homeless people who always relegated on the waterfront. [It was] nothing to walk	103.0674
+95	LES_int_01	101.7923	[Yeah.]	102.2233
+96	LES_se0_ag2_f_01	103.5301	you know, walk by. [And]	104.6912
+97	LES_int_01	104.4430	[Yeah.]	104.9084
+98	LES_se0_ag2_f_01	105.4047	I was just bike riding over there on the waterfront. I'm like, it is fucking bike lanes and shit like that.	109.6385
+99	LES_se0_ag2_f_01	109.6385	(pause 0.23)	109.8646
+100	LES_se0_ag2_f_01	109.8646	Why am I resenting these things?	111.4600
+101	LES_int_01	111.4600	Yeah.	111.8367
+102	LES_se0_ag2_f_01	111.8367	And I'm thinking, you know why I resent this shit? Cause it should have been here ten years ago.	115.0665
+103	LES_se0_ag2_f_01	115.3723	It's so-	116.1523
+104	LES_se0_ag2_f_01	116.1523	(pause 0.69)	116.8441
+105	LES_se0_ag2_f_01	116.8441	it's so	117.6374
+106	LES_se0_ag2_f_01	117.6374	(pause 0.28)	117.9166
+107	LES_se0_ag2_f_01	117.9166	late	118.3420
+108	LES_se0_ag2_f_01	118.3420	(pause 0.79)	119.1362
+109	LES_se0_ag2_f_01	119.1362	you know.	119.5838
+110	LES_int_01	119.5838	Uh-huh.	120.0624
+111	LES_se0_ag2_f_01	120.0624	And so	121.0152
+112	LES_se0_ag2_f_01	121.5559	you know y- uh. Uh. I never- it didn't til then like people would come into the bars, and then now,	126.1316
+113	LES_se0_ag2_f_01	126.1316	(pause 0.56)	126.6900
+114	LES_se0_ag2_f_01	126.6900	more and more, I'm coming to these bars	128.4818
+115	LES_se0_ag2_f_01	128.4818	(pause 0.31)	128.7965
+116	LES_se0_ag2_f_01	128.7965	and there's new people coming in.	129.9982
+117	LES_se0_ag2_f_01	129.9982	(pause 0.21)	130.2110
+118	LES_se0_ag2_f_01	130.2110	And they're not even from the neighborhood.	131.6203
+119	LES_int_01	131.6601	Yeah.	132.1710
+120	LES_se0_ag2_f_01	132.2407	And now, the bar	133.5028
+121	LES_se0_ag2_f_01	133.5028	(pause 0.19)	133.6934
+122	LES_se0_ag2_f_01	133.6934	the- the- the guys at the bouncers are telling us that we can't come in.	136.9272
+123	LES_se0_ag2_f_01	136.9272	(pause 0.69)	137.6186
+124	LES_se0_ag2_f_01	137.6186	And that we don't have the right dress codes.	139.5891
+125	LES_int_01	140.1796	What?	140.5164
+126	LES_se0_ag2_f_01	141.4338	And [it's l-]	142.0454
+127	LES_int_01	141.8238	[Really?]	142.1783
+128	LES_se0_ag2_f_01	142.2891	Yeah.	142.6924
+129	LES_se0_ag2_f_01	142.6924	(pause 0.38)	143.0744
+130	LES_se0_ag2_f_01	143.0744	And then I'm no- s- only s- I'm seeing this as this patterning.	145.8974
+131	LES_int_01	146.1323	[Yeah.]	146.5533
+132	LES_se0_ag2_f_01	146.2165	[Where] old money	147.3453
+133	LES_se0_ag2_f_01	148.3779	is now old.	149.2421
+134	LES_int_01	149.7651	[Yeah.]	150.1994
+135	LES_se0_ag2_f_01	149.9290	[Now, people] want new money.	151.1254
+136	LES_se0_ag2_f_01	151.6971	And I've seen this spill into	152.9867
+137	LES_se0_ag2_f_01	152.9867	(pause 0.15)	153.1374
+138	LES_se0_ag2_f_01	153.1374	businesses,	153.9174
+139	LES_se0_ag2_f_01	153.9174	(pause 0.47)	154.3871
+140	LES_se0_ag2_f_01	154.3871	into where the land is used,	155.9666
+141	LES_int_01	155.9666	Mm-hm.	156.4718
+142	LES_se0_ag2_f_01	156.6845	the way businesses run. Yeah, there-	158.1672
+143	LES_se0_ag2_f_01	158.1672	(pause 0.16)	158.3253
+144	LES_se0_ag2_f_01	158.3253	this stuff, and the way landlords are-	159.8942
+145	LES_se0_ag2_f_01	159.8942	(pause 0.19)	160.0797
+146	LES_se0_ag2_f_01	160.0797	harass residents.	161.0813
+147	LES_int_01	161.1832	[Yeah.]	161.6043
+148	LES_se0_ag2_f_01	161.3162	[We don't] want you old residents anymore.	163.3415
+149	LES_int_01	163.4354	[Right.]	163.9530
+150	LES_se0_ag2_f_01	163.7944	[Your money] was good to sustain us.	165.4863
+151	LES_int_01	165.5484	Yeah.	165.8985
+152	LES_se0_ag2_f_01	165.9251	But now we got new people coming in.	167.2683
+153	LES_int_01	167.3392	Yeah.	167.7558
+154	LES_se0_ag2_f_01	167.7691	And that's what I was feeling, like this money that I've invested in this community for ye- I'm twenty-nine years old.	172.2882
+155	LES_int_01	172.4256	[Yeah.]	172.7668
+156	LES_se0_ag2_f_01	172.5984	[How much] money did I put in this neighborhood?	174.3674
+157	LES_se0_ag2_f_01	174.5713	[With my] little checks.	175.6571
+158	LES_int_01	174.5713	[Yeah.]	174.9200
+159	LES_int_01	175.8817	Yeah.	176.3116
+160	LES_se0_ag2_f_01	176.6396	Now, w- it's not for me anymore?	178.3458
+161	LES_int_01	178.5009	Yeah.	178.8998
+162	LES_se0_ag2_f_01	179.2233	My first little dollar, I went right across the street to some bakery and bought something.	182.3914
+163	LES_se0_ag2_f_01	182.3914	(pause 0.29)	182.6795
+164	LES_se0_ag2_f_01	182.6795	This is my neighborhood. I've invested in it.	184.3591
+165	LES_int_01	184.5408	Yeah.	184.9396
+166	LES_se0_ag2_f_01	184.9396	And m- when- when the parks weren't safe,	187.3244
+167	LES_se0_ag2_f_01	187.7853	that was a- that was	188.7469
+168	LES_se0_ag2_f_01	188.7469	(pause 0.35)	189.1015
+169	LES_se0_ag2_f_01	189.1015	my mother and- and	190.4774
+170	LES_se0_ag2_f_01	190.4774	(pause 0.53)	191.0048
+171	LES_se0_ag2_f_01	191.0048	<ts> and parents, they s-	192.3064
+172	LES_se0_ag2_f_01	192.3064	(pause 0.13)	192.4394
+173	LES_se0_ag2_f_01	192.4394	they went and made complaints about that.	194.1855
+174	LES_int_01	194.7410	Right.	195.0290
+175	LES_se0_ag2_f_01	195.0246	You know, [they did.]	195.8578
+176	LES_int_01	195.4279	[Right.]	195.7204
+177	LES_se0_ag2_f_01	196.1148	They did community clean ups.	197.7097
+178	LES_se0_ag2_f_01	197.7097	(pause 0.43)	198.1351
+179	LES_se0_ag2_f_01	198.1351	It was us when the city wouldn't even do it.	199.8369
+180	LES_int_01	200.0452	Yeah.	200.4308
+181	LES_se0_ag2_f_01	201.2684	So,	202.0350
+182	LES_se0_ag2_f_01	202.0350	(pause 0.48)	202.5175
+183	LES_se0_ag2_f_01	202.5175	it's like, wow.	203.4836
+184	LES_se0_ag2_f_01	203.4836	(pause 0.20)	203.6875
+185	LES_se0_ag2_f_01	203.6875	And now I can't even go to no bar here.	205.4469
+186	LES_se0_ag2_f_01	205.4469	(pause 0.53)	205.9743
+187	LES_se0_ag2_f_01	205.9743	Then I was looking for waitressing. This is when it was really hitting me. I'm [looking for] waitressing jobs in the middle.	210.0856
+188	LES_int_01	208.5212	[Yeah.]	208.8625
+189	LES_int_01	210.0856	Yeah.	210.3405
+190	LES_se0_ag2_f_01	210.3405	And I th- my school let us out early, you'd get out in May.	213.0616
+191	LES_int_01	213.2610	Yeah.	213.5325
+192	LES_se0_ag2_f_01	213.4737	S- I thought this was a benefit man, I'm like yo, [this] is a benefit.	216.3095
+193	LES_int_01	215.3605	[Yeah.]	215.6319
+194	LES_se0_ag2_f_01	216.5311	We get out in May, I could definitely get me a little job.	218.8843
+195	LES_int_01	218.8843	Yeah, [yeah.]	219.3284
+196	LES_se0_ag2_f_01	219.2211	[I-] I'm ahead of everybody.	220.1784
+197	LES_int_01	220.1784	Yeah, yeah, yeah.	221.0337
+198	LES_se0_ag2_f_01	221.6010	No.	221.9068
+199	LES_se0_ag2_f_01	221.9068	(pause 0.87)	222.7763
+200	LES_se0_ag2_f_01	222.7763	Could not find a job.	223.7006
+201	LES_se0_ag2_f_01	223.7006	(pause 0.09)	223.7892
+202	LES_se0_ag2_f_01	223.7892	And I-	224.0551
+203	LES_se0_ag2_f_01	224.0551	(pause 0.11)	224.1659
+204	LES_se0_ag2_f_01	224.1659	And I'd say	224.9503
+205	LES_se0_ag2_f_01	224.9503	(pause 0.30)	225.2472
+206	LES_se0_ag2_f_01	225.2472	that I really- it was discrimination.	227.2238
+207	LES_se0_ag2_f_01	227.2238	(pause 0.23)	227.4542
+208	LES_se0_ag2_f_01	227.4542	I really feel it, because	228.5943
+209	LES_se0_ag2_f_01	228.5943	(pause 1.18)	229.7769
+210	LES_se0_ag2_f_01	229.7769	I- I know how to look for a job.	231.0932
+211	LES_se0_ag2_f_01	231.0932	(pause 0.31)	231.3990
+212	LES_se0_ag2_f_01	231.3990	Kay. I'm [I know how to look for a job. Trust me.]	233.6946
+213	LES_int_01	231.8268	[Yeah.]	232.1725
+214	LES_int_01	232.1725	(pause 0.19)	232.3675
+215	LES_int_01	232.3675	[<laugh>]	232.7390
+216	LES_int_01	232.7390	(pause 0.37)	233.1120
+217	LES_int_01	233.1120	[Yeah.]	233.3292
+218	LES_int_01	233.6946	<laugh>	234.0802
+219	LES_se0_ag2_f_01	234.0802	And when the job openings were there, I came, I was there,	237.0127
+220	LES_se0_ag2_f_01	237.3451	<ts> and um.	238.1146
+221	LES_se0_ag2_f_01	238.1146	(pause 0.76)	238.8724
+222	LES_se0_ag2_f_01	238.8724	<ts> All I did was leave resumes in every places and stuff like [that.]	241.6467
+223	LES_int_01	241.5929	[Yeah.]	241.8810
+224	LES_se0_ag2_f_01	242.1779	And it really hit me when I was leaving one guy	244.2741
+225	LES_se0_ag2_f_01	244.2741	(pause 0.12)	244.3982
+226	LES_se0_ag2_f_01	244.3982	he- fo- one guy he had a- he was doing interviews.	246.4440
+227	LES_int_01	246.4440	Yeah.	246.7232
+228	LES_se0_ag2_f_01	247.0112	And he's like	247.5568
+229	LES_se0_ag2_f_01	247.5568	(pause 0.39)	247.9459
+230	LES_se0_ag2_f_01	247.9459	he's just	248.4195
+231	LES_se0_ag2_f_01	248.4195	(pause 0.08)	248.5034
+232	LES_se0_ag2_f_01	248.5034	finished this lady, and I said, oh. I'm here for an interview.	250.5224
+233	LES_int_01	250.6761	Yeah.	251.0141
+234	LES_se0_ag2_f_01	251.0668	He- he wasn't even acknowledging me either. He's like	253.0936
+235	LES_se0_ag2_f_01	253.0936	(pause 0.50)	253.5897
+236	LES_se0_ag2_f_01	253.5897	after he just interviewed her, he walked and started cutting lemons, and I was like	256.6777
+237	LES_se0_ag2_f_01	256.6777	(pause 0.33)	257.0098
+238	LES_se0_ag2_f_01	257.0098	Oh, I'm- I'm here for a interview, it says that you're doing interviews, so I'm here for that. 	259.8240
+239	LES_int_01	259.8832	Yeah.	260.2069
+240	LES_se0_ag2_f_01	260.2411	He's like, oh yeah. Okay.	261.3914
+241	LES_se0_ag2_f_01	261.3914	(pause 0.52)	261.9094
+242	LES_se0_ag2_f_01	261.9094	I said	262.2694
+243	LES_se0_ag2_f_01	262.2694	(pause 0.23)	262.5021
+244	LES_se0_ag2_f_01	262.5021	so,	262.8841
+245	LES_se0_ag2_f_01	262.8841	(pause 0.17)	263.0553
+246	LES_se0_ag2_f_01	263.0553	are you	263.4636
+247	LES_se0_ag2_f_01	263.4636	(pause 0.18)	263.6436
+248	LES_se0_ag2_f_01	263.6436	you know.	263.9679
+249	LES_se0_ag2_f_01	263.9679	(pause 0.06)	264.0294
+250	LES_se0_ag2_f_01	264.0294	he says, no. We're not doing it anymore.	265.2762
+251	LES_se0_ag2_f_01	265.2762	(pause 0.23)	265.5089
+252	LES_se0_ag2_f_01	265.5089	I said	265.7767
+253	LES_se0_ag2_f_01	265.7767	(pause 0.14)	265.9216
+254	LES_se0_ag2_f_01	265.9216	oh, okay.	266.7382
+255	LES_se0_ag2_f_01	266.7382	(pause 0.45)	267.1904
+256	LES_se0_ag2_f_01	267.1904	Is there a time where I can come back? He's like	268.5937
+257	LES_se0_ag2_f_01	268.5937	(pause 0.32)	268.9098
+258	LES_se0_ag2_f_01	268.9098	Nah. Just leave your resume.	269.9723
+259	LES_se0_ag2_f_01	269.9723	(pause 0.09)	270.0601
+260	LES_se0_ag2_f_01	270.0601	Just leave it.	270.4991
+261	LES_se0_ag2_f_01	270.4991	(pause 0.24)	270.7362
+262	LES_se0_ag2_f_01	270.7362	And I said, okay. Thank you.	271.7811
+263	LES_se0_ag2_f_01	271.7811	(pause 0.45)	272.2289
+264	LES_se0_ag2_f_01	272.2289	So then,	272.6811
+265	LES_se0_ag2_f_01	272.6811	(pause 0.47)	273.1465
+266	LES_se0_ag2_f_01	273.1465	I	273.6338
+267	LES_se0_ag2_f_01	273.6338	(pause 0.22)	273.8489
+268	LES_se0_ag2_f_01	273.8489	walked out, and I said, I- let me just go back in and ask him when is a good time to call.	277.2938
+269	LES_se0_ag2_f_01	277.2938	(pause 0.20)	277.4957
+270	LES_se0_ag2_f_01	277.4957	So, I went back.	278.1060
+271	LES_se0_ag2_f_01	278.1060	(pause 0.31)	278.4144
+272	LES_se0_ag2_f_01	278.4144	This motherfucker was throwing my resume in the garbage.	280.8274
+273	LES_se0_ag2_f_01	280.8274	(pause 2.17)	282.9978
+274	LES_se0_ag2_f_01	282.9978	Throwing my resume in the fucking [garbage.]	284.8772
+275	LES_int_01	284.3111	[Yeah.]	284.7237
+276	LES_se0_ag2_f_01	285.4787	I got my k- I got my way back with them	287.2921
+277	LES_se0_ag2_f_01	287.2921	(pause 0.22)	287.5160
+278	LES_se0_ag2_f_01	287.5160	they used to keep this um,	288.7174
+279	LES_se0_ag2_f_01	288.7174	(pause 0.16)	288.8754
+280	LES_se0_ag2_f_01	288.8754	freaking sign in front of the	290.0213
+281	LES_se0_ag2_f_01	290.0213	(pause 0.10)	290.1223
+282	LES_se0_ag2_f_01	290.1223	the store all the time.	291.1803
+283	LES_int_01	291.1803	Yeah.	291.6369
+284	LES_se0_ag2_f_01	291.6852	Man. I called, make so many complaints. And m- I don't know how [many fines] they got.	294.5202
+285	LES_int_01	293.7915	[<laugh>]	294.1251
+286	LES_int_01	294.6783	[<laugh>]	295.4625
+287	LES_se0_ag2_f_01	294.9532	[And uh- and you] can follow up. It's real.	296.6303
+288	LES_se0_ag2_f_01	296.7708	It's- happens. All you gotta- people [don't even know.]	298.7245
+289	LES_int_01	298.1524	[<laugh>]	299.3510
+290	LES_se0_ag2_f_01	298.9133	[All you got to do] is call three-one-one.	300.5903
+291	LES_int_01	300.5903	Yeah.	300.8813
+292	LES_se0_ag2_f_01	300.8274	Make the complaint, they'll give you a ticket number, a reference, you'll follow up	304.1723
+293	LES_se0_ag2_f_01	304.4488	It's so [easy. It's so easy.] And I got- they got at least	307.4046
+294	LES_int_01	305.0934	[<laugh>]	306.2623
+295	LES_se0_ag2_f_01	307.8524	two fines from me.	308.6646
+296	LES_se0_ag2_f_01	308.6646	(pause 0.26)	308.9280
+297	LES_se0_ag2_f_01	308.9280	Cause I never [kept track.]	310.0563
+298	LES_int_01	309.3666	[Good for you. Good for you. (laughing)]	311.8076
+299	LES_se0_ag2_f_01	310.2139	[Yeah. Fuck that.]	311.0612
+300	LES_se0_ag2_f_01	311.0612	(pause 0.54)	311.5968
+301	LES_se0_ag2_f_01	311.5968	[Fuck that.]	312.0490
+302	LES_se0_ag2_f_01	312.4382	But, I'm like wow. All these people that work in the n-	314.7607
+303	LES_se0_ag2_f_01	314.7607	(pause 0.14)	314.9012
+304	LES_se0_ag2_f_01	314.9012	work in	315.5641
+305	LES_se0_ag2_f_01	315.5641	(pause 0.16)	315.7222
+306	LES_se0_ag2_f_01	315.7222	in these stores, they're not even from the neighborhood.	317.8207
+307	LES_int_01	317.9437	[Yeah.]	318.2264
+308	LES_se0_ag2_f_01	318.0139	[I thought] it must be a benefit.	319.3822
+309	LES_se0_ag2_f_01	319.6280	But he- that was what he used to work against me.	321.9900
+310	LES_int_01	322.1963	Yeah.	322.7151
+311	LES_se0_ag2_f_01	322.7825	He probably thought	323.6517
+312	LES_se0_ag2_f_01	323.6517	(pause 0.29)	323.9371
+313	LES_se0_ag2_f_01	323.9371	um man, and this is what um,	325.4327
+314	LES_se0_ag2_f_01	325.4327	(pause 0.84)	326.2756
+315	LES_se0_ag2_f_01	326.2756	another guy told me	327.2634
+316	LES_int_01	327.3512	Yeah.	327.6717
+317	LES_se0_ag2_f_01	327.7859	He was like, um	328.6903
+318	LES_se0_ag2_f_01	328.6903	(pause 1.06)	329.7483
+319	LES_se0_ag2_f_01	329.7483	we usually don't	330.5325
+320	LES_se0_ag2_f_01	330.5325	(pause 0.48)	331.0140
+321	LES_se0_ag2_f_01	331.0140	we- we had somebody here local. I said, I worked here	333.3182
+322	LES_se0_ag2_f_01	333.3182	(pause 0.46)	333.7791
+323	LES_se0_ag2_f_01	333.7791	<ts> I said, I'm local.	334.4772
+324	LES_se0_ag2_f_01	334.4772	(pause 0.35)	334.8240
+325	LES_se0_ag2_f_01	334.8240	And um.	335.2938
+326	LES_se0_ag2_f_01	335.2938	(pause 0.24)	335.5352
+327	LES_se0_ag2_f_01	335.5352	<ts> I'm flexible, I'm saying all things they wanna hear.	337.0850
+328	LES_int_01	337.1245	Yeah.	337.4494
+329	LES_se0_ag2_f_01	337.4757	I'm like, I'm right here, so	338.4240
+330	LES_se0_ag2_f_01	338.4240	(pause 0.42)	338.8411
+331	LES_se0_ag2_f_01	338.8411	whenever you need me, I'm on call.	340.0880
+332	LES_int_01	340.1977	Yeah.	340.5182
+333	LES_se0_ag2_f_01	340.8211	That's a- that seems like a benefit for a restaurant.	342.6420
+334	LES_int_01	342.8483	Sure.	343.2610
+335	LES_se0_ag2_f_01	343.2610	Mm. Like, yeah.	344.1391
+336	LES_se0_ag2_f_01	344.4157	But,	344.7581
+337	LES_se0_ag2_f_01	344.7581	(pause 0.40)	345.1532
+338	LES_se0_ag2_f_01	345.1532	we had some guy here	346.0845
+339	LES_se0_ag2_f_01	346.0845	(pause 0.26)	346.3435
+340	LES_se0_ag2_f_01	346.3435	and he was hooking up his friends.	347.8011
+341	LES_se0_ag2_f_01	347.8011	(pause 1.18)	348.9821
+342	LES_se0_ag2_f_01	348.9821	So, I was like, well that's that guy.	350.2465
+343	LES_int_01	350.5450	Yeah.	350.9709
+344	LES_se0_ag2_f_01	350.9797	You know what I'm saying? [Uh.]	351.9516
+345	LES_int_01	351.7013	[Yeah.]	352.0920
+346	LES_se0_ag2_f_01	352.5838	And um.	353.3038
+347	LES_se0_ag2_f_01	353.3038	(pause 0.25)	353.5496
+348	LES_se0_ag2_f_01	353.5496	He did. They hired me.	354.6955
+349	LES_se0_ag2_f_01	354.6955	(pause 0.26)	354.9545
+350	LES_se0_ag2_f_01	354.9545	They hired me to work, but then that made me realize,	357.5184
+351	LES_se0_ag2_f_01	357.5184	(pause 0.66)	358.1814
+352	LES_se0_ag2_f_01	358.1814	like, um.	359.1165
+353	LES_se0_ag2_f_01	359.1165	(pause 1.74)	360.8589
+354	LES_se0_ag2_f_01	360.8589	<ts> Just why people were not-	362.1759
+355	LES_se0_ag2_f_01	362.1759	(pause 0.12)	362.2945
+356	LES_se0_ag2_f_01	362.2945	it made me	362.7544
+357	LES_se0_ag2_f_01	362.7544	(pause 0.18)	362.9334
+358	LES_se0_ag2_f_01	362.9334	k- put things in perspective [for me.]	364.2289
+359	LES_int_01	364.0485	[Right.] Right. [Right. Right.]	365.8968
+360	LES_se0_ag2_f_01	365.1066	[So, now I'm seeing the] neighborhood change a lot.	366.8627
+361	LES_se0_ag2_f_01	367.1876	The streets are getting more crowded.	368.5090
+362	LES_se0_ag2_f_01	368.5090	(pause 0.19)	368.6978
+363	LES_se0_ag2_f_01	368.6978	Our neighborhood is no longer a neighborhood, it is a destination.	371.2709
+364	LES_int_01	371.5400	[Yeah.]	371.9175
+365	LES_se0_ag2_f_01	371.7902	[I] look on the internet. There's flashy beautiful colors.	374.3366
+366	LES_se0_ag2_f_01	374.6922	[And it's describing] the Lower East Side like some real hipster place.	377.8356
+367	LES_int_01	374.6922	[Yeah.]	375.0654
+368	LES_se0_ag2_f_01	378.1254	to go and have fun, and party at.	380.2601
+369	LES_se0_ag2_f_01	380.2601	(pause 0.32)	380.5762
+370	LES_se0_ag2_f_01	380.5762	And it's not talking about the churches,	382.3455
+371	LES_se0_ag2_f_01	382.3455	(pause 0.24)	382.5826
+372	LES_se0_ag2_f_01	382.5826	it's not talking about the schools,	384.1543
+373	LES_int_01	384.3474	[Yeah.]	384.7784
+374	LES_se0_ag2_f_01	384.3650	[it's not talking] about the families and hospitals. Like	387.1363
+375	LES_se0_ag2_f_01	387.3910	things that constitute communities like	389.3798
+376	LES_se0_ag2_f_01	389.3798	(pause 0.36)	389.7354
+377	LES_se0_ag2_f_01	389.7354	they're not talking about	390.7452
+378	LES_se0_ag2_f_01	390.7452	(pause 0.28)	391.0261
+379	LES_se0_ag2_f_01	391.0261	those things in these	392.0121
+380	LES_se0_ag2_f_01	392.0121	(pause 0.11)	392.1263
+381	LES_se0_ag2_f_01	392.1263	flashy little [websites.]	393.7964
+382	LES_int_01	393.6779	[Yeah.]	394.0291
+383	LES_se0_ag2_f_01	394.6613	They're talking about	395.4427
+384	LES_se0_ag2_f_01	395.4427	(pause 1.24)	396.6852
+385	LES_se0_ag2_f_01	396.6852	destination.	397.4711
+386	LES_int_01	397.5676	[Yeah.]	398.0030
+387	LES_se0_ag2_f_01	397.7169	[Then they're] not punching gentrification	399.4637
+388	LES_se0_ag2_f_01	399.7745	on Google, that shit.	400.7105
+389	LES_int_01	401.9222	[Like what comes up? (laughing) <laugh>]	404.5981
+390	LES_se0_ag2_f_01	402.2976	[My neighborhood comes up.]	403.5796
+391	LES_se0_ag2_f_01	403.5796	(pause 0.52)	404.0976
+392	LES_se0_ag2_f_01	404.0976	[That's fucked up.]	404.9054
+393	LES_se0_ag2_f_01	405.1179	That does- that d- that is really- that f- like imagine like just growing up here and seeing that shit. That will fuck you're head up.	411.4097
+394	LES_int_01	411.4800	Yeah.	411.9346
+395	LES_se0_ag2_f_01	411.8707	Like wow. Places where	412.9156
+396	LES_se0_ag2_f_01	413.0122	it was crack vials	414.0269
+397	LES_se0_ag2_f_01	414.0269	(pause 0.34)	414.3649
+398	LES_se0_ag2_f_01	414.3649	everywhere. Now people wanna live here?	416.0332
+399	LES_int_01	416.3406	Yeah.	416.6040
+400	LES_se0_ag2_f_01	416.6567	Or, when they saw a beautiful,	417.8678
+401	LES_se0_ag2_f_01	417.8678	(pause 0.47)	418.3332
+402	LES_se0_ag2_f_01	418.3332	at the end of the day, I can't enjoy that?	419.8873
+403	LES_int_01	420.0322	Yeah.	420.4581
+404	LES_se0_ag2_f_01	421.1413	It's something seriously wrong-	423.0851
+405	LES_se0_ag2_f_01	423.0851	(pause 0.59)	423.6759
+406	LES_se0_ag2_f_01	423.6759	wrong with that.	424.3363
+407	LES_int_01	424.7710	Yeah. So, you talked about community. Um.	427.5709
+408	LES_int_01	427.5709	(pause 0.19)	427.7640
+409	LES_int_01	427.7640	I mean, first of all, like, what- what does that word mean to you? How do you define	431.3739
+410	LES_int_01	431.3739	(pause 0.26)	431.6374
+411	LES_int_01	431.6374	community?	432.2680
+412	LES_se0_ag2_f_01	433.5149	<ts> Alright, well	434.3402
+413	LES_se0_ag2_f_01	434.3402	(pause 0.82)	435.1612
+414	LES_se0_ag2_f_01	435.1612	you could break it up.	435.9076
+415	LES_int_01	436.4476	Yeah.	436.8295
+416	LES_se0_ag2_f_01	437.9758	Um.	438.4894
+417	LES_se0_ag2_f_01	438.4894	(pause 2.73)	441.2231
+418	LES_se0_ag2_f_01	441.2231	<ts> And	441.8992
+419	LES_se0_ag2_f_01	441.8992	(pause 1.27)	443.1723
+420	LES_se0_ag2_f_01	443.1723	When you put the- when you break up the word,	445.0455
+421	LES_se0_ag2_f_01	445.0455	(pause 0.75)	445.7918
+422	LES_se0_ag2_f_01	445.7918	you know, like come- k- k- like	447.5392
+423	LES_se0_ag2_f_01	447.5392	(pause 1.38)	448.9177
+424	LES_se0_ag2_f_01	448.9177	unity.	449.5499
+425	LES_int_01	449.7478	Yeah.	449.9981
+426	LES_se0_ag2_f_01	449.9981	You know. Come and unify.	451.1606
+427	LES_int_01	451.3186	Yeah.	451.7357
+428	LES_se0_ag2_f_01	451.8586	Come and unite.	452.6840
+429	LES_int_01	452.9951	Right.	453.3683
+430	LES_se0_ag2_f_01	453.7546	Come-unity.	454.5756
+431	LES_int_01	454.7995	Right.	455.1990
+432	LES_se0_ag2_f_01	455.2956	I- you know.	455.9893
+433	LES_se0_ag2_f_01	455.9893	(pause 0.93)	456.9222
+434	LES_se0_ag2_f_01	456.9222	And what I think about is like, um.	458.9813
+435	LES_se0_ag2_f_01	458.9813	(pause 0.28)	459.2579
+436	LES_se0_ag2_f_01	459.2579	Well, people actually tell me that	461.0359
+437	LES_se0_ag2_f_01	461.0359	(pause 0.83)	461.8613
+438	LES_se0_ag2_f_01	461.8613	a lot- they don't have um.	463.0950
+439	LES_se0_ag2_f_01	463.0950	(pause 0.28)	463.3765
+440	LES_se0_ag2_f_01	463.3765	<ts> People tell me that wow, you know what, your neighborhood is really like a village.	466.1983
+441	LES_se0_ag2_f_01	466.1983	(pause 0.53)	466.7251
+442	LES_se0_ag2_f_01	466.7251	Like, you know, like	467.4759
+443	LES_se0_ag2_f_01	467.4759	(pause 0.52)	467.9939
+444	LES_se0_ag2_f_01	467.9939	you really	468.5647
+445	LES_se0_ag2_f_01	468.5647	(pause 0.23)	468.7995
+446	LES_se0_ag2_f_01	468.7995	people that come from outside, they [be like.]	470.1474
+447	LES_int_01	469.8777	[Like] a urban [village]	471.3020
+448	LES_se0_ag2_f_01	471.1948	[Yeah.] They're [like]	471.8973
+449	LES_int_01	471.9043	thing.	472.4241
+450	LES_se0_ag2_f_01	472.4856	Well, they're no- not like a vill- more like a-	474.6836
+451	LES_se0_ag2_f_01	474.6836	(pause 0.10)	474.7802
+452	LES_se0_ag2_f_01	474.7802	a k- like a real sense of community, like	476.6021
+453	LES_int_01	476.7734	[Yeah.]	477.1860
+454	LES_se0_ag2_f_01	476.9270	[I went] to school with people	478.3626
+455	LES_se0_ag2_f_01	478.8133	that I still s- I- I went to	480.3367
+456	LES_se0_ag2_f_01	480.3367	(pause 0.29)	480.6265
+457	LES_se0_ag2_f_01	480.6265	p- I went to elementary school, and I still see these people.	482.7311
+458	LES_int_01	482.7311	Yeah [yeah.]	483.4625
+459	LES_se0_ag2_f_01	483.3150	[And] my f- my sister's woman.	484.5443
+460	LES_se0_ag2_f_01	484.8984	She was telling me, that, you know, she goes back to her neighborhood in Staton I- Long Island or Staton Island. One of those.	489.4467
+461	LES_se0_ag2_f_01	489.4467	(pause 0.12)	489.5696
+462	LES_se0_ag2_f_01	489.5696	No, Long Island.	490.2150
+463	LES_int_01	490.3072	Yeah.	490.6859
+464	LES_se0_ag2_f_01	490.9142	And	491.4410
+465	LES_se0_ag2_f_01	491.4410	(pause 0.54)	491.9766
+466	LES_se0_ag2_f_01	491.9766	The block isn't the same, you know, everybody's not, you know. She doesn't know everybody walking down the street, and then [she- you know,] if she does she just met them.	499.1668
+467	LES_int_01	497.0582	[Yeah.]	497.4616
+468	LES_se0_ag2_f_01	499.5312	Where, when I'm walking down the street, I've known these people	501.7142
+469	LES_se0_ag2_f_01	501.7142	(pause 0.16)	501.8717
+470	LES_se0_ag2_f_01	501.8717	since I was five.	502.6664
+471	LES_int_01	502.6752	[Right.]	503.0521
+472	LES_se0_ag2_f_01	502.8639	[Or]	503.2195
+473	LES_se0_ag2_f_01	503.8424	you know, I've seen or we	505.0673
+474	LES_se0_ag2_f_01	505.0673	(pause 0.11)	505.1814
+475	LES_se0_ag2_f_01	505.1814	it's very- it's deep how it's very like villagey over here.	508.3848
+476	LES_se0_ag2_f_01	508.3848	(pause 0.54)	508.9204
+477	LES_se0_ag2_f_01	508.9204	Like everybody's been in each other's lives and then	510.6897
+478	LES_se0_ag2_f_01	510.6897	(pause 0.51)	511.1990
+479	LES_se0_ag2_f_01	511.1990	a- for- for many [years.]	512.6550
+480	LES_int_01	512.5804	[Right.]	512.9931
+481	LES_se0_ag2_f_01	512.9931	For many years. It's deep.	514.3936
+482	LES_int_01	514.7536	[Okay.]	515.0214
+483	LES_se0_ag2_f_01	514.8941	[And I'm] like wow. I don't wanna take	516.0399
+484	LES_se0_ag2_f_01	516.4043	I- I don't I wouldn't- I don't take that for granted.	518.4689
+485	LES_se0_ag2_f_01	518.4689	(pause 0.26)	518.7323
+486	LES_se0_ag2_f_01	518.7323	Like- [like] my friend	519.7552
+487	LES_int_01	518.9055	[Okay.]	519.1909
+488	LES_se0_ag2_f_01	520.0318	she- before I came here, I came here, I said, I have to go, I have a interview. I have to leave, I have to go. You know.	523.3573
+489	LES_se0_ag2_f_01	523.3573	(pause 0.60)	523.9543
+490	LES_se0_ag2_f_01	523.9543	Um. Do this interview.	524.9187
+491	LES_se0_ag2_f_01	524.9187	(pause 0.28)	525.1997
+492	LES_se0_ag2_f_01	525.1997	Um.	525.5597
+493	LES_se0_ag2_f_01	525.5597	(pause 0.93)	526.4904
+494	LES_se0_ag2_f_01	526.4904	<ts> But I went to- I went to preschool with her.	528.9841
+495	LES_se0_ag2_f_01	528.9841	(pause 0.55)	529.5373
+496	LES_se0_ag2_f_01	529.5373	And	529.9327
+497	LES_int_01	529.9327	[Yeah.]	530.4025
+498	LES_se0_ag2_f_01	530.1566	[We were] ketchup sisters.	531.3270
+499	LES_se0_ag2_f_01	531.4894	[Cause our mothers] would whoop our asses if we cut out, did [some blood sister shit.]	535.3002
+500	LES_int_01	531.4894	[<laugh>]	532.0165
+501	LES_int_01	532.0165	(pause 2.30)	534.3199
+502	LES_int_01	534.3199	[<laugh>]	535.1365
+503	LES_se0_ag2_f_01	535.6734	So, that was my ketchup sister. 	537.0135
+504	LES_int_01	537.0135	[<laugh>]	537.7402
+505	LES_se0_ag2_f_01	537.4218	[We-] you know, I still see her.	539.0248
+506	LES_se0_ag2_f_01	539.1697	You know, like [we-]	539.9687
+507	LES_int_01	539.8241	[Yeah.]	540.3334
+508	LES_se0_ag2_f_01	540.4384	people know, like I can't put anything on anybody	543.2880
+509	LES_se0_ag2_f_01	543.2880	(pause 0.22)	543.5032
+510	LES_se0_ag2_f_01	543.5032	[In this] neighborhood. Cause everybody knows who I was when I was little?	545.7978
+511	LES_int_01	543.5401	[Yeah.]	543.8870
+512	LES_int_01	546.1709	Now, like	547.0095
+513	LES_int_01	547.0095	(pause 0.15)	547.1588
+514	LES_int_01	547.1588	so those are the people that	548.7612
+515	LES_int_01	548.7612	(pause 0.45)	549.2134
+516	LES_int_01	549.2134	you grew up with that have lived here for a while. Like what about the new folks that are moving in? Are they	554.1464
+517	LES_int_01	554.1464	(pause 0.09)	554.2342
+518	LES_int_01	554.2342	do they become a part of the Lower East Side	556.3855
+519	LES_int_01	556.3855	(pause 0.09)	556.4777
+520	LES_int_01	556.4777	community?	557.0264
+521	LES_se0_ag2_f_01	558.7518	Oh.	558.9274
+522	LES_se0_ag2_f_01	558.9274	(pause 0.29)	559.2172
+523	LES_se0_ag2_f_01	559.2172	When I was little, I used to hope for this.	560.9612
+524	LES_se0_ag2_f_01	560.9612	(pause 0.22)	561.1851
+525	LES_se0_ag2_f_01	561.1851	Right.	561.4768
+526	LES_int_01	561.4768	Yeah.	561.9289
+527	LES_se0_ag2_f_01	561.8612	I wasn't- I used to work at Goldman Sachs. This big time	564.2660
+528	LES_se0_ag2_f_01	564.7149	uh- a trading company [on the Lower East Side.]	566.9484
+529	LES_int_01	565.8344	[Yeah. Yeah.]	566.9045
+530	LES_se0_ag2_f_01	567.2338	And um.	567.8616
+531	LES_se0_ag2_f_01	567.8616	(pause 1.19)	569.0470
+532	LES_se0_ag2_f_01	569.0470	I used to g- I was wondering, like why	570.9480
+533	LES_se0_ag2_f_01	570.9480	(pause 0.30)	571.2465
+534	LES_se0_ag2_f_01	571.2465	well, people I worked with don't live over here.	572.6148
+535	LES_se0_ag2_f_01	572.6148	(pause 0.74)	573.3523
+536	LES_se0_ag2_f_01	573.3523	And I used to tell my co-workers. Cause I was young, I was a intern, and they put me on	576.6011
+537	LES_se0_ag2_f_01	576.6011	(pause 0.22)	576.8163
+538	LES_se0_ag2_f_01	576.8163	full time.	577.3591
+539	LES_int_01	577.5038	[Yeah.]	577.9434
+540	LES_se0_ag2_f_01	577.6313	[Like,] so I'm just like, they just liked the way I w- you know, work, so I'm working in this corporates s- 	581.1523
+541	LES_se0_ag2_f_01	581.4158	place	581.7275
+542	LES_int_01	581.9065	[Yeah.]	582.3851
+543	LES_se0_ag2_f_01	582.1172	[full time.] And I used to say to my co-workers, like	584.0572
+544	LES_se0_ag2_f_01	584.6630	you co- you travel hours to get here.	586.5201
+545	LES_int_01	586.8582	[Right.]	587.3060
+546	LES_se0_ag2_f_01	587.1084	[You know] I takes me thirty minutes.	588.7767
+547	LES_int_01	588.9172	Yeah.	589.3743
+548	LES_se0_ag2_f_01	589.3222	I was like, I don't get why people don't live over here. It's not as bad as people think.	592.8212
+549	LES_se0_ag2_f_01	592.9398	I used to say that all the [time.]	593.9759
+550	LES_int_01	593.8354	[<laugh>] You're like it's [okay.]	595.3998
+551	LES_se0_ag2_f_01	595.2227	[It's] not as bad as people think.	596.4964
+552	LES_int_01	596.4745	Yeah.	596.8784
+553	LES_se0_ag2_f_01	596.9311	And then I saw, I remember this white couple coming in the neighborhood.	599.4687
+554	LES_se0_ag2_f_01	599.4687	(pause 0.25)	599.7233
+555	LES_se0_ag2_f_01	599.7233	Because you had	600.4982
+556	LES_se0_ag2_f_01	600.4982	(pause 0.31)	600.8055
+557	LES_se0_ag2_f_01	600.8055	white- when you saw white people in this neighborhood,	602.6362
+558	LES_int_01	602.6362	Yeah.	603.0972
+559	LES_se0_ag2_f_01	603.7294	They were on drugs,	604.8753
+560	LES_se0_ag2_f_01	604.8753	(pause 0.72)	605.5997
+561	LES_se0_ag2_f_01	605.5997	they were a undercover cop,	606.8070
+562	LES_int_01	606.8070	<laugh>	607.8299
+563	LES_se0_ag2_f_01	607.8299	or maybe some artist that did not give a fuck. [Like, they] was just like, fuck it, I'm a artist.	611.9579
+564	LES_int_01	610.0305	[Right.]	610.3115
+565	LES_se0_ag2_f_01	612.3618	And, I'm not scared of none of y'all.	613.7979
+566	LES_int_01	613.9335	[<laugh>]	614.9608
+567	LES_se0_ag2_f_01	614.1135	[That's- that's what you had.] Those are the three types of white people. [That's it.]	617.3936
+568	LES_int_01	616.8221	[Right.]	617.1603
+569	LES_int_01	617.7471	Right.	618.0632
+570	LES_se0_ag2_f_01	618.3705	And um.	619.1300
+571	LES_se0_ag2_f_01	619.1300	(pause 0.27)	619.3978
+572	LES_se0_ag2_f_01	619.3978	Just be honest, right?	620.4515
+573	LES_int_01	620.4036	[Yeah, yeah.]	620.9463
+574	LES_se0_ag2_f_01	620.7899	[So,] I saw these two, I saw this white couple come, and I remem- I remember this day. And they said	625.0474
+575	LES_se0_ag2_f_01	625.2054	we're looking for housing. And I'm like	626.5066
+576	LES_se0_ag2_f_01	626.5066	(pause 0.09)	626.5944
+577	LES_se0_ag2_f_01	626.5944	I'm telling them to- li- they should go to my projects, and I'm like, you know what,	629.5666
+578	LES_se0_ag2_f_01	629.5666	(pause 0.78)	630.3475
+579	LES_se0_ag2_f_01	630.3475	my-	630.6022
+580	LES_se0_ag2_f_01	630.6022	(pause 0.30)	630.9007
+581	LES_se0_ag2_f_01	630.9007	where I live at, my building's [nice.]	632.5838
+582	LES_int_01	632.3555	[It's really nice.]	633.2599
+583	LES_se0_ag2_f_01	632.9482	[It's nice.] It's beautiful.	634.0678
+584	LES_int_01	634.1687	[Yeah.]	634.4541
+585	LES_se0_ag2_f_01	634.3882	[Y'all] should move in there. [And then what I was] thinking of, was like wow.	636.9478
+586	LES_int_01	635.2399	[It is. (laughing)]	635.8414
+587	LES_se0_ag2_f_01	637.2156	My neighborhood would get more mixed.	639.0815
+588	LES_int_01	639.3899	[Right.]	639.7543
+589	LES_se0_ag2_f_01	639.5742	[And] everybody would be mixed. Like, I always, [always]	642.2315
+590	LES_int_01	641.7452	[You like] that. You would- [yeah.]	643.0257
+591	LES_se0_ag2_f_01	642.8720	[I've] always liked that. My [mothers] raised us like that.	644.9618
+592	LES_int_01	643.8842	[Yeah.]	644.1037
+593	LES_int_01	645.1330	Mm-hm.	645.3745
+594	LES_se0_ag2_f_01	645.4096	The first time I said something bad about a white person,	647.5257
+595	LES_int_01	647.7540	Mm-hm.	648.0262
+596	LES_se0_ag2_f_01	648.0262	I didn't even know what that meant.	649.4832
+597	LES_se0_ag2_f_01	649.7159	[Because my] mother's- one of my mother's best friends are white.	651.5994
+598	LES_int_01	649.8178	[Mm-hm.]	650.1295
+599	LES_int_01	651.8847	Mm-hm.	652.3062
+600	LES_se0_ag2_f_01	652.3062	But I never	652.8242
+601	LES_se0_ag2_f_01	652.9598	looked- I never	653.8719
+602	LES_se0_ag2_f_01	653.8719	(pause 0.13)	654.0036
+603	LES_se0_ag2_f_01	654.0036	put that connection. I never thought of color or- I just really do- didn't.	657.3934
+604	LES_se0_ag2_f_01	657.3934	(pause 0.12)	657.5163
+605	LES_se0_ag2_f_01	657.5163	[Like I was] that's how innocent it is.	659.0172
+606	LES_int_01	657.5163	[Yeah.]	658.0079
+607	LES_int_01	659.1007	Yeah.	659.4958
+608	LES_se0_ag2_f_01	659.5397	And I'm just like	660.2817
+609	LES_se0_ag2_f_01	660.2817	(pause 0.16)	660.4397
+610	LES_se0_ag2_f_01	660.4397	and I forgot so- oh. Something happened with these- we got followed in the store	662.7227
+611	LES_se0_ag2_f_01	662.7227	(pause 0.13)	662.8500
+612	LES_se0_ag2_f_01	662.8500	by these white people. [And I remember] I came home /??/	664.7093
+613	LES_int_01	663.5703	[Uh.]	663.8733
+614	LES_se0_ag2_f_01	665.0504	These white people. They- I just came home crying about it and I was like	667.3544
+615	LES_se0_ag2_f_01	667.3544	(pause 0.32)	667.6705
+616	LES_se0_ag2_f_01	667.6705	white people, they- I'm'a fuck them up. They made me /this-/ You know, I was so [angry.]	671.3188
+617	LES_int_01	670.8494	[Uh-huh.]	671.3188
+618	LES_se0_ag2_f_01	671.6376	And my mother said, oh. Oh.	673.2533
+619	LES_se0_ag2_f_01	673.2533	(pause 0.19)	673.4420
+620	LES_se0_ag2_f_01	673.4420	You got all that about white people?	675.1191
+621	LES_se0_ag2_f_01	675.1191	(pause 0.21)	675.3255
+622	LES_se0_ag2_f_01	675.3255	Oh.	675.5713
+623	LES_se0_ag2_f_01	675.5713	(pause 0.33)	675.9050
+624	LES_se0_ag2_f_01	675.9050	Really?	676.2079
+625	LES_se0_ag2_f_01	676.2079	(pause 0.26)	676.4669
+626	LES_se0_ag2_f_01	676.4669	I'm like yeah. Fuck that.	677.5277
+627	LES_se0_ag2_f_01	677.5277	(pause 0.40)	677.9316
+628	LES_se0_ag2_f_01	677.9316	I don't like them, /you know what they make me say/.	679.4068
+629	LES_se0_ag2_f_01	679.4068	(pause 0.28)	679.6834
+630	LES_se0_ag2_f_01	679.6834	She go, oh. Why don't you tell /RD-NAME-2/ all of that?	681.3604
+631	LES_se0_ag2_f_01	681.3604	(pause 0.34)	681.6985
+632	LES_se0_ag2_f_01	681.6985	I'm'a p- I'm'a call her right now.	682.9335
+633	LES_se0_ag2_f_01	682.9335	(pause 0.46)	683.3975
+634	LES_se0_ag2_f_01	683.3975	And I- I was like, tell /RD-NAME-2/?	684.9786
+635	LES_se0_ag2_f_01	684.9786	(pause 0.10)	685.0795
+636	LES_se0_ag2_f_01	685.0795	And then, it li- it slowly dawned on me. And I was like, no. I remember, begging my mother and crying, like please don't call [her.]	692.1067
+637	LES_int_01	687.1763	[Right.]	687.5407
+638	LES_int_01	687.5407	(pause 4.32)	691.8634
+639	LES_int_01	691.8634	[Don't call /RD-NAME-2/]	693.3402
+640	LES_se0_ag2_f_01	692.5414	[Please don't tell] her I said that.	694.5346
+641	LES_se0_ag2_f_01	694.6531	Please. But she goes, no, but she is white.	696.5277
+642	LES_se0_ag2_f_01	696.5277	(pause 0.51)	697.0425
+643	LES_se0_ag2_f_01	697.0425	And you real right? Go tell everything you told me, tell her.	700.2957
+644	LES_int_01	700.6030	Yeah.	700.8840
+645	LES_se0_ag2_f_01	700.8840	And that's when I had to literally put things in perspective.	702.8736
+646	LES_se0_ag2_f_01	703.0440	[I've always] wanted things mixed up.	704.4363
+647	LES_int_01	703.0883	[Yeah.]	703.4438
+648	LES_int_01	704.4363	Yeah.	704.8194
+649	LES_se0_ag2_f_01	704.7699	Cause then I was like, wow. You know what? Then	706.1397
+650	LES_se0_ag2_f_01	706.4470	what it is, is what things that- like what society's teaching me	709.1838
+651	LES_se0_ag2_f_01	709.1838	(pause 0.38)	709.5614
+652	LES_se0_ag2_f_01	709.5614	to make- you know, make these-	710.4965
+653	LES_se0_ag2_f_01	710.4965	(pause 0.11)	710.6019
+654	LES_se0_ag2_f_01	710.6019	these differences. It's not like	712.0786
+655	LES_int_01	712.2147	[Yeah.]	712.7152
+656	LES_se0_ag2_f_01	712.6099	[I-] I- I really should just take people for who they are. I've always like mixing and whatever.	716.1775
+657	LES_int_01	716.4760	Yeah.	716.8080
+658	LES_se0_ag2_f_01	716.8080	And	717.2207
+659	LES_int_01	717.5500	But- but maybe there's not mixing.	719.3895
+660	LES_se0_ag2_f_01	719.8900	But. [This is the thing.]	720.7853
+661	LES_int_01	720.2497	[That's the- yeah.] So, the mixing's not actually [happening?]	722.5634
+662	LES_se0_ag2_f_01	722.3087	[No.] The mix- [the mixing's not happening this time.]	724.1351
+663	LES_int_01	722.8498	[Yeah.]	723.1528
+664	LES_int_01	723.1528	(pause 0.39)	723.5391
+665	LES_int_01	723.5391	[So, what's- I mean- yeah.]	724.7223
+666	LES_se0_ag2_f_01	724.3546	[Because what I] feel like, if you aks me, it's like a distain type of	727.8054
+667	LES_se0_ag2_f_01	728.5912	disposition I feel	729.7832
+668	LES_int_01	729.7832	[Yeah.]	730.1256
+669	LES_se0_ag2_f_01	729.9763	[with n-] the new folk	731.2759
+670	LES_int_01	731.2759	[Yeah.]	731.7112
+671	LES_se0_ag2_f_01	731.4954	[coming] in the hood.	732.2373
+672	LES_int_01	732.2373	Yeah.	732.5783
+673	LES_se0_ag2_f_01	732.8739	Um.	733.2910
+674	LES_se0_ag2_f_01	733.2910	(pause 0.12)	733.4139
+675	LES_se0_ag2_f_01	733.4139	Yeah. You could just stand in the middle of the sidewalk. Nobody fucking lives here. Nobody gotta walk through.	737.7549
+676	LES_int_01	737.9789	Yeah.	738.2203
+677	LES_se0_ag2_f_01	738.2203	And then	738.7208
+678	LES_se0_ag2_f_01	739.2564	um, it's-	740.0950
+679	LES_se0_ag2_f_01	740.0950	(pause 0.12)	740.2136
+680	LES_se0_ag2_f_01	740.2136	it's more like um,	741.1349
+681	LES_se0_ag2_f_01	741.1349	(pause 0.09)	741.2227
+682	LES_se0_ag2_f_01	741.2227	the people look- uh, loo- ask me for directions and don't look at me in my eye.	744.2696
+683	LES_int_01	745.0554	Mm-hm.	745.2969
+684	LES_int_01	745.2969	(pause 0.53)	745.8237
+685	LES_int_01	745.8237	[Mm-hm.]	746.3418
+686	LES_se0_ag2_f_01	746.0129	[Mm.] Don't fucking ask me shit if you scared.	748.0851
+687	LES_se0_ag2_f_01	748.5461	You know.	748.9500
+688	LES_se0_ag2_f_01	748.9500	(pause 0.07)	749.0233
+689	LES_se0_ag2_f_01	749.0233	[Don't do] it.	749.5866
+690	LES_int_01	749.0641	[Yeah.]	749.3558
+691	LES_se0_ag2_f_01	749.9070	[The other] day I was um	751.2982
+692	LES_int_01	749.9070	[Yeah.]	750.2147
+693	LES_se0_ag2_f_01	752.2202	<ts>	752.3387
+694	LES_se0_ag2_f_01	752.3387	(pause 0.44)	752.7777
+695	LES_se0_ag2_f_01	752.7777	this lady, you could tell, she's illegally-	754.3901
+696	LES_se0_ag2_f_01	754.3901	(pause 0.50)	754.8949
+697	LES_se0_ag2_f_01	754.8949	she's illegally uh	756.0496
+698	LES_se0_ag2_f_01	756.0496	(pause 0.09)	756.1418
+699	LES_se0_ag2_f_01	756.1418	I don't know what she was doing over here, whatever, in m- in the projects over there. But [she was over] there.	759.7407
+700	LES_int_01	759.0655	[Yeah.]	759.4914
+701	LES_se0_ag2_f_01	760.0524	And you know,	761.0666
+702	LES_se0_ag2_f_01	761.0666	(pause 2.50)	763.5685
+703	LES_se0_ag2_f_01	763.5685	I- cause I've seen her a couple of times. I think she just knows somebody over here. [Or she's]	766.7778
+704	LES_int_01	766.1719	[Yeah.]	766.6724
+705	LES_se0_ag2_f_01	767.1553	but the whole thing was, like she got a little nervous when we was walking out. Like, I feel like she got a little nervous cause she looked and then	772.0406
+706	LES_se0_ag2_f_01	772.0406	(pause 0.36)	772.4050
+707	LES_se0_ag2_f_01	772.4050	she started speeding up a little bit.	773.8055
+708	LES_se0_ag2_f_01	773.8055	(pause 0.47)	774.2709
+709	LES_se0_ag2_f_01	774.2709	And that happens to me a lot.	775.1988
+710	LES_se0_ag2_f_01	775.1988	(pause 0.09)	775.2910
+711	LES_se0_ag2_f_01	775.2910	So, it's like almost where I know, it's like, ah man.	777.4467
+712	LES_se0_ag2_f_01	777.4467	(pause 0.13)	777.5740
+713	LES_se0_ag2_f_01	777.5740	Fuck that bitch.	778.4037
+714	LES_int_01	778.4037	[Yeah.]	779.2141
+715	LES_se0_ag2_f_01	778.9262	[And then] um.	779.7999
+716	LES_se0_ag2_f_01	780.2110	The other day,	781.1110
+717	LES_se0_ag2_f_01	781.1110	(pause 0.11)	781.2164
+718	LES_se0_ag2_f_01	781.2164	uh.	781.6993
+719	LES_se0_ag2_f_01	781.6993	(pause 1.88)	783.5828
+720	LES_se0_ag2_f_01	783.5828	I forgot somebody- I was loo-	784.8603
+721	LES_int_01	784.9902	Sorry.	785.3897
+722	LES_se0_ag2_f_01	785.4969	uh. I was look- oh. I'm sorry.	786.7289
+723	LES_int_01	786.6836	/Sorry ?/.	787.1502
+724	LES_int_01	787.3522	[Touch.]	787.5673
+725	LES_se0_ag2_f_01	787.4224	[I w-]	787.5673
+726	LES_se0_ag2_f_01	787.8265	I was looking for something	789.0031
+727	LES_se0_ag2_f_01	789.0031	(pause 0.08)	789.0821
+728	LES_se0_ag2_f_01	789.0821	and um	789.7538
+729	LES_se0_ag2_f_01	789.7538	(pause 1.69)	791.4413
+730	LES_se0_ag2_f_01	791.4413	now, I forgot what happened. I just bumped in-	793.1184
+731	LES_se0_ag2_f_01	793.1184	(pause 0.39)	793.5092
+732	LES_se0_ag2_f_01	793.5092	I bumped into this guy.	794.5145
+733	LES_se0_ag2_f_01	794.5145	(pause 0.25)	794.7648
+734	LES_se0_ag2_f_01	794.7648	[By accident] I wasn't looking.	795.8958
+735	LES_int_01	794.7648	[Yeah.]	795.0615
+736	LES_int_01	796.0054	Yeah.	796.3083
+737	LES_se0_ag2_f_01	796.6861	And this guy's like	797.4807
+738	LES_se0_ag2_f_01	797.4807	(pause 1.00)	798.4773
+739	LES_se0_ag2_f_01	798.4773	He's like um,	799.2571
+740	LES_se0_ag2_f_01	799.2571	(pause 2.07)	801.3249
+741	LES_se0_ag2_f_01	801.3249	Yo.	801.7332
+742	LES_se0_ag2_f_01	801.7332	(pause 0.38)	802.1108
+743	LES_se0_ag2_f_01	802.1108	Fucking watch where you going.	803.7352
+744	LES_se0_ag2_f_01	803.7352	(pause 0.35)	804.0864
+745	LES_se0_ag2_f_01	804.0864	And I'm looking at this white mother fucker	805.6894
+746	LES_se0_ag2_f_01	805.6894	(pause 0.08)	805.7728
+747	LES_se0_ag2_f_01	805.7728	your ass is ballsy.	807.2002
+748	LES_int_01	807.3381	[<laugh>]	809.6166
+749	LES_se0_ag2_f_01	807.4505	[Cause]	807.7095
+750	LES_se0_ag2_f_01	807.7095	(pause 0.47)	808.1793
+751	LES_se0_ag2_f_01	808.1793	[ten years ago,]	809.1715
+752	LES_se0_ag2_f_01	809.9266	you wouldn't have even p-	811.0988
+753	LES_se0_ag2_f_01	811.0988	(pause 0.14)	811.2349
+754	LES_se0_ag2_f_01	811.2349	curled your lip up, talk to me that way.	812.7658
+755	LES_int_01	812.6517	[Yeah.]	813.3585
+756	LES_se0_ag2_f_01	812.9634	[I know you] wouldn't have.	814.1143
+757	LES_int_01	814.2190	Yeah.	814.6099
+758	LES_se0_ag2_f_01	814.6099	And so just getting this.	815.7645
+759	LES_se0_ag2_f_01	816.0236	Even when I go to bars, it's like	817.5294
+760	LES_se0_ag2_f_01	817.5294	(pause 0.14)	817.6655
+761	LES_se0_ag2_f_01	817.6655	everybody don't get carded. Then I come in, and I get carded, and it's [like]	820.6498
+762	LES_int_01	820.3573	Yeah.]	820.6690
+763	LES_se0_ag2_f_01	820.9220	I- I o- I mean, I know I look young, but it's just like	823.1369
+764	LES_se0_ag2_f_01	823.1369	(pause 0.09)	823.2247
+765	LES_se0_ag2_f_01	823.2247	all these little different things that	824.5111
+766	LES_se0_ag2_f_01	824.5111	(pause 0.47)	824.9764
+767	LES_se0_ag2_f_01	824.9764	I noticed	825.8501
+768	LES_se0_ag2_f_01	825.8501	(pause 0.65)	826.5043
+769	LES_se0_ag2_f_01	826.5043	that um.	827.5448
+770	LES_se0_ag2_f_01	827.5448	(pause 0.76)	828.3087
+771	LES_se0_ag2_f_01	828.3087	I mean, one day, this lady. <laugh>	829.6592
+772	LES_se0_ag2_f_01	829.6592	(pause 0.66)	830.3221
+773	LES_se0_ag2_f_01	830.3221	We'd just- we was-	831.0202
+774	LES_se0_ag2_f_01	831.0202	(pause 0.12)	831.1387
+775	LES_se0_ag2_f_01	831.1387	we was celebrating	831.9817
+776	LES_se0_ag2_f_01	831.9817	(pause 0.40)	832.3856
+777	LES_se0_ag2_f_01	832.3856	um, winning a victory for affordable housing.	834.7432
+778	LES_se0_ag2_f_01	834.7432	(pause 0.27)	835.0170
+779	LES_se0_ag2_f_01	835.0170	[Just a-]	835.4297
+780	LES_int_01	835.0170	[Yeah.]	835.4297
+781	LES_se0_ag2_f_01	835.7589	And this white woman. She comes, she sits there, and she's like um.	838.7756
+782	LES_se0_ag2_f_01	838.7756	(pause 1.27)	840.0444
+783	LES_se0_ag2_f_01	840.0444	She comes in and she's like um.	841.2034
+784	LES_se0_ag2_f_01	841.2034	(pause 1.27)	842.4766
+785	LES_se0_ag2_f_01	842.4766	Oh, can I sit with y'all? Cause it's so noisy in there.	844.6816
+786	LES_se0_ag2_f_01	844.6816	(pause 0.65)	845.3314
+787	LES_se0_ag2_f_01	845.3314	So, I was like, ah. I'm thinking she's a old school white person they're like	848.1647
+788	LES_int_01	848.1647	Yeah.	848.5467
+789	LES_se0_ag2_f_01	848.5467	the- the white people that's been here for years. One of the white people that's been here [for years.] And they don't	851.8745
+790	LES_int_01	851.1436	[Yeah.]	851.4933
+791	LES_se0_ag2_f_01	852.0106	They tired of the bar too,	853.2819
+792	LES_int_01	853.3588	[Yeah.]	853.6969
+793	LES_se0_ag2_f_01	853.4550	[so I] thought she was one of us. I was like,	855.1980
+794	LES_se0_ag2_f_01	855.4833	hell yeah. Come and sit down man. Yeah. We talking, we drinking.	858.9813
+795	LES_int_01	859.1205	Yeah.	859.4774
+796	LES_se0_ag2_f_01	859.4774	And then she	860.4564
+797	LES_se0_ag2_f_01	860.7198	had a whole different idea of her existence in our community.	863.6525
+798	LES_se0_ag2_f_01	863.6525	(pause 0.57)	864.2189
+799	LES_se0_ag2_f_01	864.2189	She was- when I told her about the- the af- affordable housing opportunities, she- she was like completely against that. She was like	869.8313
+800	LES_se0_ag2_f_01	869.8313	(pause 0.33)	870.1606
+801	LES_se0_ag2_f_01	870.1606	h- oh, I don't get it. I mean.	871.2230
+802	LES_se0_ag2_f_01	871.2230	(pause 0.32)	871.5435
+803	LES_se0_ag2_f_01	871.5435	You just should work	872.3074
+804	LES_se0_ag2_f_01	872.3074	(pause 0.27)	872.5796
+805	LES_se0_ag2_f_01	872.5796	for what you get. Like I worked	874.5377
+806	LES_se0_ag2_f_01	874.5377	(pause 0.43)	874.9679
+807	LES_se0_ag2_f_01	874.9679	s- see where I am today?	876.2104
+808	LES_se0_ag2_f_01	876.2104	(pause 0.19)	876.4035
+809	LES_se0_ag2_f_01	876.4035	I worked for that.	877.3205
+810	LES_int_01	877.4566	[Oh /?/.]	877.9981
+811	LES_se0_ag2_f_01	877.6805	[I earned] this.	878.7210
+812	LES_se0_ag2_f_01	879.3620	And this- if you ask me, we're making the neighborhood better.	882.1751
+813	LES_se0_ag2_f_01	882.1751	(pause 0.24)	882.4166
+814	LES_se0_ag2_f_01	882.4166	This what she's telling me.	883.3034
+815	LES_se0_ag2_f_01	883.3034	(pause 0.23)	883.5361
+816	LES_se0_ag2_f_01	883.5361	The neighborhood was shit	884.5886
+817	LES_se0_ag2_f_01	884.5886	(pause 0.33)	884.9223
+818	LES_se0_ag2_f_01	884.9223	when people lived here before and als- and all this other stuff and	887.0472
+819	LES_se0_ag2_f_01	887.0472	(pause 0.53)	887.5784
+820	LES_se0_ag2_f_01	887.5784	this lady's like going on about how my nei- Like how she's this benefit to my neighborhood.	891.7135
+821	LES_se0_ag2_f_01	891.7135	(pause 0.93)	892.6398
+822	LES_se0_ag2_f_01	892.6398	And I couldn't believe it.	893.5882
+823	LES_int_01	893.6408	Oh, you're like. (laughing)	894.4662
+824	LES_int_01	894.4662	(pause 0.12)	894.5847
+825	LES_int_01	894.5847	[Like, I mean, I don't] disagree [with you or uh.]	896.7799
+826	LES_se0_ag2_f_01	894.6550	[And I was like]	895.4013
+827	LES_se0_ag2_f_01	895.4013	(pause 0.65)	896.0555
+828	LES_se0_ag2_f_01	896.0555	[I said miss,] you looking at what we do. We moving from	898.5711
+829	LES_se0_ag2_f_01	898.9135	things that are public	899.8575
+830	LES_se0_ag2_f_01	899.8575	(pause 0.11)	899.9628
+831	LES_se0_ag2_f_01	899.9628	to now private.	900.6784
+832	LES_se0_ag2_f_01	900.6784	(pause 0.53)	901.2097
+833	LES_se0_ag2_f_01	901.2097	You're looking at a town where nobody had control over	903.4761
+834	LES_se0_ag2_f_01	903.4761	(pause 0.51)	903.9854
+835	LES_se0_ag2_f_01	903.9854	what repairs happened in their building. Let alone in their apartments.	906.5010
+836	LES_se0_ag2_f_01	906.5010	(pause 0.10)	906.6020
+837	LES_se0_ag2_f_01	906.6020	You have slum landlords who care less about the residents.	909.7795
+838	LES_int_01	909.7795	Yeah.	910.2668
+839	LES_se0_ag2_f_01	911.3512	Then,	911.8648
+840	LES_se0_ag2_f_01	911.8648	(pause 0.26)	912.1286
+841	LES_se0_ag2_f_01	912.1286	you- you- now we're moving to a more private	914.4730
+842	LES_se0_ag2_f_01	914.4730	(pause 0.37)	914.8462
+843	LES_se0_ag2_f_01	914.8462	uh, sector, with everything	916.4032
+844	LES_se0_ag2_f_01	916.4032	(pause 0.33)	916.7369
+845	LES_se0_ag2_f_01	916.7369	and now people wanna give a fuck about shit.	918.3218
+846	LES_se0_ag2_f_01	918.3218	(pause 0.40)	918.7213
+847	LES_se0_ag2_f_01	918.7213	And now, landlords, wanna make sure things are correct	920.4950
+848	LES_se0_ag2_f_01	920.4950	(pause 0.12)	920.6179
+849	LES_se0_ag2_f_01	920.6179	cause they gonna make more money off of that.	922.0652
+850	LES_int_01	922.0652	Yeah.	922.5437
+851	LES_se0_ag2_f_01	923.0706	And I said, but	923.8125
+852	LES_se0_ag2_f_01	923.8125	(pause 0.59)	924.4052
+853	LES_se0_ag2_f_01	924.4052	uh. My mother fought for the change.	926.6223
+854	LES_se0_ag2_f_01	926.6223	(pause 0.32)	926.9384
+855	LES_se0_ag2_f_01	926.9384	[And the] reason why we lived here, was not because of choice. We was forced to. There was no where else to live.	931.4062
+856	LES_int_01	926.9384	[Yeah.]	927.2047
+857	LES_int_01	931.4062	Yeah.	931.8189
+858	LES_se0_ag2_f_01	931.8584	In this- in but this piece of shit hole.	933.7594
+859	LES_se0_ag2_f_01	933.7594	(pause 0.11)	933.8735
+860	LES_se0_ag2_f_01	933.8735	And when we make the change, we should enjoy it.	935.5726
+861	LES_se0_ag2_f_01	935.5726	(pause 0.30)	935.8740
+862	LES_se0_ag2_f_01	935.8740	[You came] here	936.8311
+863	LES_int_01	935.8740	[Yeah.]	936.2049
+864	LES_se0_ag2_f_01	937.0681	not	937.5335
+865	LES_se0_ag2_f_01	937.5335	(pause 0.80)	938.3369
+866	LES_se0_ag2_f_01	938.3369	cause you didn't have a choice. Because you wanted to.	940.8526
+867	LES_int_01	941.0677	Yeah.	941.5067
+868	LES_se0_ag2_f_01	942.0013	Know what I'm saying? [It wasn't for]	943.0593
+869	LES_int_01	942.4949	[You want to] appreciate [what you] fought for [right? Yeah.]	945.7360
+870	LES_se0_ag2_f_01	943.5994	[Yeah.]	944.0677
+871	LES_se0_ag2_f_01	944.0677	(pause 0.62)	944.6881
+872	LES_se0_ag2_f_01	944.6881	[Yeah.]	945.1960
+873	LES_se0_ag2_f_01	945.1960	(pause 0.31)	945.5047
+874	LES_se0_ag2_f_01	945.5047	[It wasn-] y- and she was just like	947.2916
+875	LES_se0_ag2_f_01	947.3750	I find myself like	948.5457
+876	LES_se0_ag2_f_01	948.5457	(pause 2.32)	950.8638
+877	LES_se0_ag2_f_01	950.8638	she's just- she's just like, no. I'm no. I'm	952.9096
+878	LES_se0_ag2_f_01	952.9096	(pause 0.19)	953.1028
+879	LES_se0_ag2_f_01	953.1028	we make the neighborhood better. The people didn't appreciate it.	955.1208
+880	LES_se0_ag2_f_01	955.1208	(pause 0.43)	955.5511
+881	LES_se0_ag2_f_01	955.5511	I'm like, well, you wasn't there when somebody called five or six times for their landlord to fix their house.	959.1862
+882	LES_se0_ag2_f_01	959.1862	(pause 0.26)	959.4452
+883	LES_se0_ag2_f_01	959.4452	That's why these buil- that's how these buildings got decrepit 	961.5159
+884	LES_se0_ag2_f_01	961.5159	(pause 0.16)	961.6784
+885	LES_se0_ag2_f_01	961.6784	over a period of time.	962.9472
+886	LES_int_01	963.0309	Yeah.	963.3730
+887	LES_se0_ag2_f_01	963.3730	You know.	963.8604
+888	LES_int_01	964.0495	[Yeah.]	964.4402
+889	LES_se0_ag2_f_01	964.1062	[You weren't] here when the sanitation wasn't picking things up regularly. This is the whole city.	967.4589
+890	LES_se0_ag2_f_01	967.7091	Why didn't they pick up garbage as regularly as they did	969.9921
+891	LES_se0_ag2_f_01	969.9921	(pause 0.23)	970.2247
+892	LES_se0_ag2_f_01	970.2247	in other parts of th- of the city?	971.7043
+893	LES_int_01	971.7529	Yeah.]	972.1700
+894	LES_se0_ag2_f_01	972.3681	You wasn't here when- for that.	973.5642
+895	LES_int_01	973.6941	[Yeah.]	974.1112
+896	LES_se0_ag2_f_01	974.0208	[So,] you can't sit here and say that people didn't care about where they lived at, cause my mother did.	977.4409
+897	LES_se0_ag2_f_01	977.6516	My mother cared about where we lived at.	979.0813
+898	LES_int_01	979.3976	[Yeah.]	979.7437
+899	LES_se0_ag2_f_01	979.5511	[And I'm] happy and I'm fine.	980.8242
+900	LES_se0_ag2_f_01	981.3467	And then, even the bars. The new bar owners they have the same /iadea/.	984.3701
+901	LES_se0_ag2_f_01	984.3701	(pause 0.30)	984.6730
+902	LES_se0_ag2_f_01	984.6730	Well,	985.0637
+903	LES_se0_ag2_f_01	985.0637	(pause 0.29)	985.3535
+904	LES_se0_ag2_f_01	985.3535	nobody wanted to be here, and now we have these businesses	987.5662
+905	LES_se0_ag2_f_01	987.5662	(pause 0.29)	987.8560
+906	LES_se0_ag2_f_01	987.8560	and I'm like man.	988.5189
+907	LES_se0_ag2_f_01	988.5189	(pause 0.15)	988.6726
+908	LES_se0_ag2_f_01	988.6726	Y'all still disruptive, y'all still don't give back to the community.	991.6289
+909	LES_int_01	991.6289	Yeah.	992.1776
+910	LES_se0_ag2_f_01	992.2830	<ts> And you still have people that-	993.4493
+911	LES_se0_ag2_f_01	993.4493	(pause 0.29)	993.7391
+912	LES_se0_ag2_f_01	993.7391	that um	994.4942
+913	LES_se0_ag2_f_01	994.4942	(pause 0.36)	994.8498
+914	LES_se0_ag2_f_01	994.8498	they're like yeah, lining up and- and causing ruckus in our- in our [neighborhood. Please.]	998.4919
+915	LES_int_01	997.8581	[Yeah. And] not serving [the community. /inaudible/.]	1000.7672
+916	LES_se0_ag2_f_01	999.4797	[Not serve the neighborhood. You ask] even anybody else too,	1002.1095
+917	LES_se0_ag2_f_01	1002.4739	like the long standing white people that lived in the [neighborhood,]	1004.9582
+918	LES_int_01	1004.8441	[Yeah.]	1005.2480
+919	LES_se0_ag2_f_01	1005.5158	those, they will fucking tell	1007.3312
+920	LES_se0_ag2_f_01	1007.3312	(pause 0.08)	1007.4102
+921	LES_se0_ag2_f_01	1007.4102	they will say the drug dealers saved them.	1008.8535
+922	LES_se0_ag2_f_01	1008.8535	(pause 1.08)	1009.9291
+923	LES_se0_ag2_f_01	1009.9291	I've s- I swear to [God, they will say] the drug dealers protected them	1012.6555
+924	LES_int_01	1010.7501	[Yeah.]	1011.3691
+925	LES_int_01	1012.6730	[Okay.]	1013.2680
+926	LES_se0_ag2_f_01	1013.0023	[from] other drug dealers.	1014.3809
+927	LES_int_01	1014.3809	Yeah.	1014.7189
+928	LES_se0_ag2_f_01	1014.7496	Like, that's what-	1015.7620
+929	LES_se0_ag2_f_01	1015.7620	(pause 0.41)	1016.1747
+930	LES_se0_ag2_f_01	1016.1747	that's what it was. I even [heard this one] time I was getting my taxes done and this guy,	1019.1540
+931	LES_int_01	1017.1686	[Yeah.]	1017.5807
+932	LES_se0_ag2_f_01	1019.4920	he was t- he was an old police officer in the area.	1021.5247
+933	LES_se0_ag2_f_01	1021.5247	(pause 0.76)	1022.2843
+934	LES_se0_ag2_f_01	1022.2843	And he was like	1022.8857
+935	LES_se0_ag2_f_01	1022.8857	(pause 0.49)	1023.3731
+936	LES_se0_ag2_f_01	1023.3731	yeah, this neighborhood was bad. That's why I do this now.	1025.5259
+937	LES_se0_ag2_f_01	1025.5259	(pause 0.35)	1025.8771
+938	LES_se0_ag2_f_01	1025.8771	And he was bragging about how	1027.3084
+939	LES_se0_ag2_f_01	1027.3084	(pause 0.41)	1027.7167
+940	LES_se0_ag2_f_01	1027.7167	the- the cops would get called and they would wait for three	1030.2220
+941	LES_se0_ag2_f_01	1030.2220	(pause 1.05)	1031.2757
+942	LES_se0_ag2_f_01	1031.2757	cop cars	1032.0308
+943	LES_se0_ag2_f_01	1032.0308	(pause 0.09)	1032.1230
+944	LES_se0_ag2_f_01	1032.1230	to come to respond before they would get out the car do anything.	1035.1069
+945	LES_se0_ag2_f_01	1035.1069	(pause 0.19)	1035.3000
+946	LES_se0_ag2_f_01	1035.3000	There had to be three on site.	1036.5776
+947	LES_se0_ag2_f_01	1036.5776	(pause 1.33)	1037.9123
+948	LES_se0_ag2_f_01	1037.9123	And how none of them ever wanted to get there. Of course.	1040.2903
+949	LES_se0_ag2_f_01	1040.2903	(pause 0.26)	1040.5537
+950	LES_se0_ag2_f_01	1040.5537	Now, I've watched people die,	1042.0420
+951	LES_se0_ag2_f_01	1042.0420	(pause 0.31)	1042.3537
+952	LES_se0_ag2_f_01	1042.3537	I've watched people die	1043.5435
+953	LES_se0_ag2_f_01	1043.5435	(pause 0.33)	1043.8771
+954	LES_se0_ag2_f_01	1043.8771	in the street	1044.4698
+955	LES_se0_ag2_f_01	1044.4698	(pause 1.02)	1045.4884
+956	LES_se0_ag2_f_01	1045.4884	cause no cops came.	1046.4703
+957	LES_se0_ag2_f_01	1046.4703	(pause 0.58)	1047.0498
+958	LES_se0_ag2_f_01	1047.0498	I've watched that s-	1047.8451
+959	LES_se0_ag2_f_01	1047.8451	(pause 0.47)	1048.3186
+960	LES_se0_ag2_f_01	1048.3186	that's my reality.	1049.2493
+961	LES_se0_ag2_f_01	1049.2493	(pause 0.55)	1049.8025
+962	LES_se0_ag2_f_01	1049.8025	It's happened twice in my life. [Twice too many.]	1051.9977
+963	LES_int_01	1051.2252	[Yeah.]	1051.7409
+964	LES_se0_ag2_f_01	1052.7030	And I remember one time on Grand Street,	1054.2571
+965	LES_se0_ag2_f_01	1054.2571	(pause 0.36)	1054.6127
+966	LES_se0_ag2_f_01	1054.6127	I'm looking outside and everybody's w-	1056.9264
+967	LES_se0_ag2_f_01	1056.9264	(pause 0.49)	1057.4181
+968	LES_se0_ag2_f_01	1057.4181	out	1057.7606
+969	LES_se0_ag2_f_01	1057.7606	(pause 0.53)	1058.2944
+970	LES_se0_ag2_f_01	1058.2944	o- there's no cell phones at the time.	1059.6789
+971	LES_int_01	1059.7404	[Yeah.]	1060.1882
+972	LES_se0_ag2_f_01	1060.0828	[People] were out their windows	1061.5316
+973	LES_se0_ag2_f_01	1062.0394	like I saw every window with a phone.	1063.8965
+974	LES_int_01	1064.1423	[Yeah.]	1064.4145
+975	LES_se0_ag2_f_01	1064.3048	[And] the ambulance took	1065.3804
+976	LES_se0_ag2_f_01	1065.9248	forty-five minutes to get there.	1067.4438
+977	LES_se0_ag2_f_01	1067.4438	(pause 0.85)	1068.2896
+978	LES_se0_ag2_f_01	1068.2896	Those are the longest forty-five minutes I've ever seen.	1070.3575
+979	LES_se0_ag2_f_01	1070.3575	(pause 0.45)	1070.8053
+980	LES_se0_ag2_f_01	1070.8053	And this kid died.	1071.7887
+981	LES_int_01	1072.4824	Was it a shooting?	1073.3736
+982	LES_se0_ag2_f_01	1073.3736	Uh-huh. Yeah. It was a shooting.	1074.3116
+983	LES_se0_ag2_f_01	1074.9262	And	1075.5189
+984	LES_se0_ag2_f_01	1075.5189	(pause 0.19)	1075.7121
+985	LES_se0_ag2_f_01	1075.7121	cops used to shoot kids. Cops used to beat up	1078.0960
+986	LES_se0_ag2_f_01	1078.0960	(pause 0.15)	1078.2453
+987	LES_se0_ag2_f_01	1078.2453	kids in my neighborhood.	1079.1629
+988	LES_se0_ag2_f_01	1079.1629	(pause 0.26)	1079.4219
+989	LES_se0_ag2_f_01	1079.4219	Y- people used to come back fucked up from cops.	1081.7955
+990	LES_se0_ag2_f_01	1081.7955	(pause 1.79)	1083.5867
+991	LES_se0_ag2_f_01	1083.5867	This was it.	1084.1481
+992	LES_se0_ag2_f_01	1084.1481	(pause 0.10)	1084.2447
+993	LES_se0_ag2_f_01	1084.2447	This was us. [This was it.]	1085.4768
+994	LES_int_01	1085.1184	[Yeah.]	1085.5882
+995	LES_se0_ag2_f_01	1085.9422	And.	1086.4998
+996	LES_se0_ag2_f_01	1086.4998	(pause 0.19)	1086.6886
+997	LES_se0_ag2_f_01	1086.6886	So, yeah. We deserve it and	1088.4140
+998	LES_se0_ag2_f_01	1088.4140	(pause 0.26)	1088.6774
+999	LES_se0_ag2_f_01	1088.6774	you know w- why can't we-	1089.7530
+1000	LES_se0_ag2_f_01	1089.7530	(pause 0.15)	1089.9023
+1001	LES_se0_ag2_f_01	1089.9023	we live with each other collectively?	1091.3523
+1002	LES_se0_ag2_f_01	1091.3523	(pause 0.32)	1091.6716
+1003	LES_se0_ag2_f_01	1091.6716	I- I mean, why can't we	1092.6623
+1004	LES_se0_ag2_f_01	1092.6623	(pause 0.32)	1092.9871
+1005	LES_se0_ag2_f_01	1092.9871	why can't there be an /inclusin/	1094.5501
+1006	LES_se0_ag2_f_01	1094.5501	(pause 0.27)	1094.8179
+1007	LES_se0_ag2_f_01	1094.8179	uh- uh- a c- an um.	1095.7179
+1008	LES_se0_ag2_f_01	1095.7179	(pause 0.68)	1096.4028
+1009	LES_se0_ag2_f_01	1096.4028	<ts> An inc- like an all inclusive community?	1098.5086
+1010	LES_int_01	1098.5788	[Yeah.]	1098.9915
+1011	LES_se0_ag2_f_01	1098.7984	[I'm] down for that.	1099.6237
+1012	LES_int_01	1099.6589	Yeah.	1100.0540
+1013	LES_se0_ag2_f_01	1100.2559	But,	1100.7169
+1014	LES_se0_ag2_f_01	1100.7169	(pause 0.50)	1101.2130
+1015	LES_se0_ag2_f_01	1101.2130	you know, when they start	1102.2096
+1016	LES_se0_ag2_f_01	1102.2096	(pause 0.32)	1102.5301
+1017	LES_se0_ag2_f_01	1102.5301	chartering all the schools up,	1103.9466
+1018	LES_se0_ag2_f_01	1103.9466	(pause 0.17)	1104.1135
+1019	LES_se0_ag2_f_01	1104.1135	chopping them up,	1105.1452
+1020	LES_int_01	1105.7818	[Mm-hm.]	1106.2384
+1021	LES_se0_ag2_f_01	1105.9223	[And you have] PTAs that can actually	1108.1833
+1022	LES_se0_ag2_f_01	1108.4774	support a commu- a computer lab, and do all this other stuff, and but they want it on their e-	1112.4930
+1023	LES_se0_ag2_f_01	1112.4930	(pause 0.43)	1112.9233
+1024	LES_se0_ag2_f_01	1112.9233	they want it on their terms, and kids gotta take specialized tests in these public schools.	1116.8071
+1025	LES_int_01	1117.1452	Yeah.	1117.5008
+1026	LES_se0_ag2_f_01	1117.5008	Man.	1117.9618
+1027	LES_se0_ag2_f_01	1118.5764	There's something wrong with that.	1119.5555
+1028	LES_int_01	1119.8408	Yeah, yeah, yeah.	1121.0262
+1029	LES_se0_ag2_f_01	1121.4740	You know, so.	1122.3448
+1030	LES_se0_ag2_f_01	1122.3448	(pause 1.20)	1123.5403
+1031	LES_se0_ag2_f_01	1123.5403	I remember wanting to g- I went, when after that lady, after I saw that lady, man.	1126.2316
+1032	LES_se0_ag2_f_01	1126.2316	(pause 0.41)	1126.6442
+1033	LES_se0_ag2_f_01	1126.6442	I went home and cried.	1127.7462
+1034	LES_se0_ag2_f_01	1127.7462	(pause 0.63)	1128.3725
+1035	LES_se0_ag2_f_01	1128.3725	I went home and cried.	1129.1540
+1036	LES_se0_ag2_f_01	1129.1540	(pause 0.66)	1129.8169
+1037	LES_se0_ag2_f_01	1129.8169	And I wanted to like	1131.1911
+1038	LES_se0_ag2_f_01	1131.1911	(pause 0.99)	1132.1789
+1039	LES_se0_ag2_f_01	1132.1789	Yeah. I felt [helpless.]	1133.3423
+1040	LES_int_01	1133.2501	[Yeah.]	1133.7418
+1041	LES_se0_ag2_f_01	1133.9771	And I was like, you know what miss,	1134.9210
+1042	LES_se0_ag2_f_01	1134.9210	(pause 1.13)	1136.0537
+1043	LES_se0_ag2_f_01	1136.0537	I remember me telling her, like tryna hold back my tears, cause I'm very sensitive.	1138.8256
+1044	LES_int_01	1138.9502	[Yeah.]	1139.4595
+1045	LES_se0_ag2_f_01	1139.2571	[You know] miss,	1139.9463
+1046	LES_se0_ag2_f_01	1140.2975	you enjoy your food, and you have a nice	1142.6288
+1047	LES_se0_ag2_f_01	1142.6288	(pause 0.40)	1143.0239
+1048	LES_se0_ag2_f_01	1143.0239	beautiful	1143.6678
+1049	LES_se0_ag2_f_01	1143.6678	(pause 0.27)	1143.9356
+1050	LES_se0_ag2_f_01	1143.9356	night.	1144.1595
+1051	LES_se0_ag2_f_01	1144.1595	(pause 0.75)	1144.9102
+1052	LES_se0_ag2_f_01	1144.9102	And I got [up]	1145.5822
+1053	LES_int_01	1145.3825	[Get] out of there.	1146.1552
+1054	LES_se0_ag2_f_01	1146.4029	And I fucking	1147.2283
+1055	LES_se0_ag2_f_01	1147.2283	(pause 0.38)	1147.6102
+1056	LES_se0_ag2_f_01	1147.6102	m-	1147.7946
+1057	LES_se0_ag2_f_01	1147.7946	(pause 0.25)	1148.0493
+1058	LES_se0_ag2_f_01	1148.0493	literally was crying. Somebody-	1149.5712
+1059	LES_se0_ag2_f_01	1149.5712	(pause 0.61)	1150.1814
+1060	LES_se0_ag2_f_01	1150.1814	It was so funny too. People have seen me cry in the street	1152.5731
+1061	LES_se0_ag2_f_01	1152.5731	(pause 0.08)	1152.6493
+1062	LES_se0_ag2_f_01	1152.6493	about- and it's always about my neighborhood. [And they] think it's about a guy, they be like	1155.9405
+1063	LES_int_01	1154.3225	[<laugh>]	1154.6345
+1064	LES_se0_ag2_f_01	1156.3005	wait, stop.	1157.0900
+1065	LES_se0_ag2_f_01	1157.0900	(pause 0.55)	1157.6352
+1066	LES_se0_ag2_f_01	1157.6352	What's [wrong?]	1158.3903
+1067	LES_int_01	1158.0938	[What did they do to you? <laugh>]	1160.2829
+1068	LES_se0_ag2_f_01	1158.5440	[What did he do to you?]	1159.7074
+1069	LES_se0_ag2_f_01	1159.7074	(pause 0.32)	1160.0235
+1070	LES_se0_ag2_f_01	1160.0235	[And I'm like]	1160.5240
+1071	LES_se0_ag2_f_01	1160.6337	man,	1161.0186
+1072	LES_se0_ag2_f_01	1161.0186	(pause 1.21)	1162.2303
+1073	LES_se0_ag2_f_01	1162.2303	look at that building!	1163.2488
+1074	LES_int_01	1163.2488	<laugh>	1164.4258
+1075	LES_se0_ag2_f_01	1164.5132	Man, we getting displaced!	1165.9050
+1076	LES_se0_ag2_f_01	1165.9050	(pause 0.21)	1166.1157
+1077	LES_se0_ag2_f_01	1166.1157	And I'm really, I'm joking, but	1167.5278
+1078	LES_se0_ag2_f_01	1167.5278	(pause 0.36)	1167.8922
+1079	LES_se0_ag2_f_01	1167.8922	[literally, just the other] day I was crying on the corner.	1170.2103
+1080	LES_int_01	1167.8922	[<laugh>]	1168.9676
+1081	LES_int_01	1168.9676	(pause 1.20)	1170.1721
+1082	LES_int_01	1170.1721	Yeah.	1170.5538
+1083	LES_se0_ag2_f_01	1170.5220	Because I saw, like on Avenue D,	1172.5635
+1084	LES_se0_ag2_f_01	1173.3303	it's all torn dow- Avenue D	1175.4815
+1085	LES_se0_ag2_f_01	1175.4815	(pause 0.29)	1175.7669
+1086	LES_se0_ag2_f_01	1175.7669	is like the p- the- the- was the base- like it was like the- the Mecca of violence for the Lower East Side. Okay?	1181.1917
+1087	LES_int_01	1180.4333	[Yeah. Yeah.]	1181.4036
+1088	LES_se0_ag2_f_01	1181.5386	It's the last avenue	1183.0752
+1089	LES_se0_ag2_f_01	1183.0752	(pause 0.62)	1183.6942
+1090	LES_se0_ag2_f_01	1183.6942	in Manhattan,	1184.5811
+1091	LES_int_01	1184.6106	Yeah.	1185.1155
+1092	LES_se0_ag2_f_01	1185.5281	Kay.	1185.9101
+1093	LES_se0_ag2_f_01	1185.9101	(pause 0.50)	1186.4106
+1094	LES_se0_ag2_f_01	1186.4106	And this is fucking a- it's not Avenue D, it's D Ave.	1189.9372
+1095	LES_int_01	1190.0382	<laugh>	1190.9338
+1096	LES_se0_ag2_f_01	1190.9338	You know?	1191.5792
+1097	LES_se0_ag2_f_01	1191.7153	That's what it is. Like	1192.7953
+1098	LES_se0_ag2_f_01	1192.7953	(pause 0.25)	1193.0440
+1099	LES_se0_ag2_f_01	1193.0440	you a /??/? I'm on the Ave.	1194.4884
+1100	LES_se0_ag2_f_01	1194.4884	(pause 0.12)	1194.6070
+1101	LES_se0_ag2_f_01	1194.6070	[There's thousands] of Ave's in city	1196.1163
+1102	LES_int_01	1194.6070	[Yeah.]	1195.0583
+1103	LES_se0_ag2_f_01	1196.3762	but you on The [Ave.]	1197.8294
+1104	LES_int_01	1197.6275	[Yeah.] Yeah.	1198.5231
+1105	LES_se0_ag2_f_01	1198.8852	And that- that place was violent and now when you [see]	1201.7286
+1106	LES_int_01	1201.3952	[Right.]	1201.7286
+1107	LES_se0_ag2_f_01	1201.9832	development like a cuchifrito place that	1203.9720
+1108	LES_se0_ag2_f_01	1203.9720	(pause 0.27)	1204.2442
+1109	LES_se0_ag2_f_01	1204.2442	I used to go to. I rem- I have memories of going to the cuchifrito place	1207.4185
+1110	LES_se0_ag2_f_01	1207.4185	(pause 0.31)	1207.7258
+1111	LES_se0_ag2_f_01	1207.7258	after h- after the hospital	1208.9770
+1112	LES_se0_ag2_f_01	1208.9770	(pause 0.41)	1209.3864
+1113	LES_se0_ag2_f_01	1209.3864	for soup. They had nice little chicken soup. [And I] could go to the cuchifrito place and get that soup.	1213.6922
+1114	LES_int_01	1211.2875	[Yeah.]	1211.5733
+1115	LES_int_01	1213.7062	Yeah.	1213.9580
+1116	LES_se0_ag2_f_01	1214.0594	It was minority only. Been there forever.	1215.9714
+1117	LES_int_01	1216.0600	[Yeah.]	1216.4301
+1118	LES_se0_ag2_f_01	1216.1533	[These are the] businesses that were serving us when nobody wanted to, [right.]	1218.7630
+1119	LES_int_01	1218.4925	[Right.]	1219.0754
+1120	LES_se0_ag2_f_01	1219.3132	Now, they're gone.	1220.0686
+1121	LES_se0_ag2_f_01	1220.0686	(pause 0.14)	1220.2085
+1122	LES_se0_ag2_f_01	1220.2085	On the corner, gone.	1221.1737
+1123	LES_se0_ag2_f_01	1221.1737	(pause 0.62)	1221.7927
+1124	LES_se0_ag2_f_01	1221.7927	We don't know what's gonna come of that.	1223.0843
+1125	LES_se0_ag2_f_01	1223.0843	(pause 0.63)	1223.7138
+1126	LES_se0_ag2_f_01	1223.7138	I don't know what's gonna be built there.	1225.0428
+1127	LES_se0_ag2_f_01	1225.0428	(pause 0.16)	1225.2013
+1128	LES_se0_ag2_f_01	1225.2013	[But,] I'll tell you this much.	1226.3624
+1129	LES_int_01	1225.2013	[Yeah.]	1225.3598
+1130	LES_se0_ag2_f_01	1226.9545	I know it's not gonna be for me.	1228.3942
+1131	LES_int_01	1228.6927	Yeah.	1229.2149
+1132	LES_se0_ag2_f_01	1229.7232	And that's why I got involved with	1231.0451
+1133	LES_se0_ag2_f_01	1231.0451	(pause 0.10)	1231.1430
+1134	LES_se0_ag2_f_01	1231.1430	the organization.	1231.9934
+1135	LES_int_01	1232.0476	Right.	1232.4672
+1136	LES_se0_ag2_f_01	1233.9023	Um. Because, I wanted to be a more a part of the-	1236.2710
+1137	LES_se0_ag2_f_01	1236.2710	(pause 0.94)	1237.2083
+1138	LES_se0_ag2_f_01	1237.2083	the solution, than a part of a problem.	1239.0594
+1139	LES_int_01	1239.2040	Yeah.	1239.5339
+1140	LES_se0_ag2_f_01	1239.6738	And I felt like I was alone.	1241.1612
+1141	LES_se0_ag2_f_01	1241.1612	(pause 0.94)	1242.1031
+1142	LES_se0_ag2_f_01	1242.1031	And when I came back from college,	1243.8657
+1143	LES_se0_ag2_f_01	1243.8657	(pause 0.57)	1244.4346
+1144	LES_se0_ag2_f_01	1244.4346	uh,	1244.8309
+1145	LES_se0_ag2_f_01	1244.8309	(pause 0.18)	1245.0081
+1146	LES_se0_ag2_f_01	1245.0081	one of the things that	1245.7904
+1147	LES_se0_ag2_f_01	1245.7904	(pause 0.08)	1245.8743
+1148	LES_se0_ag2_f_01	1245.8743	in p- I lived in p- I was raised in public housing.	1247.8187
+1149	LES_se0_ag2_f_01	1247.8187	(pause 0.34)	1248.1544
+1150	LES_se0_ag2_f_01	1248.1544	One of the things is if you are under-employed, or unemployed,	1250.4299
+1151	LES_int_01	1250.5745	Yeah.	1250.9848
+1152	LES_se0_ag2_f_01	1251.0734	you have to do community service.	1252.5084
+1153	LES_se0_ag2_f_01	1252.5084	(pause 1.36)	1253.8700
+1154	LES_se0_ag2_f_01	1253.8700	Mandatory community service. [If you do] not do it, the consequence is eviction.	1257.2804
+1155	LES_int_01	1255.1709	[Huh.]	1255.4134
+1156	LES_se0_ag2_f_01	1257.8679	This is a federal law.	1259.0697
+1157	LES_int_01	1259.2981	Huh.	1259.5499
+1158	LES_se0_ag2_f_01	1259.5499	That's only applicable, arbitrarily	1261.4664
+1159	LES_se0_ag2_f_01	1261.8021	to residents that live in public housing across the country.	1264.1522
+1160	LES_int_01	1264.5241	Huh.	1264.7573
+1161	LES_se0_ag2_f_01	1264.9251	But, where does that come from? Stigmatizations, right?	1267.2146
+1162	LES_int_01	1267.4757	[Yeah.]	1267.7648
+1163	LES_se0_ag2_f_01	1267.6902	[Stigmatizations] of	1268.8699
+1164	LES_se0_ag2_f_01	1269.1497	people that live in public housing. They ain't shit. Even subsidies, right? You have [those] stigmatizations for that.	1273.4824
+1165	LES_int_01	1272.2966	[Yeah.]	1272.5624
+1166	LES_se0_ag2_f_01	1273.8694	Subsidies. Oh. People are lazy. They're bums. And there's violence, and there's drugs and they living off the government. They taking my tax dollars, and all of these [things.]	1280.4929
+1167	LES_int_01	1280.3949	[Yeah.]	1280.7213
+1168	LES_se0_ag2_f_01	1281.2622	And	1281.6819
+1169	LES_se0_ag2_f_01	1281.6819	(pause 0.55)	1282.2341
+1170	LES_se0_ag2_f_01	1282.2341	<ts> I really think that that's- those negative things are spill- they've- they spill into our everyday lives.	1287.6151
+1171	LES_se0_ag2_f_01	1287.6151	(pause 0.18)	1287.7969
+1172	LES_se0_ag2_f_01	1287.7969	The way services are allocated and-	1289.3615
+1173	LES_se0_ag2_f_01	1289.3615	(pause 0.35)	1289.7065
+1174	LES_se0_ag2_f_01	1289.7065	and in the way even	1290.8738
+1175	LES_se0_ag2_f_01	1290.8738	(pause 0.19)	1291.0603
+1176	LES_se0_ag2_f_01	1291.0603	money's appropriated to them on our government levels.	1293.4803
+1177	LES_se0_ag2_f_01	1293.4803	(pause 0.25)	1293.7275
+1178	LES_se0_ag2_f_01	1293.7275	The way police come into our community, the way policies are written,	1296.5267
+1179	LES_se0_ag2_f_01	1296.5267	(pause 0.20)	1296.7226
+1180	LES_se0_ag2_f_01	1296.7226	these things spill,	1297.8510
+1181	LES_se0_ag2_f_01	1297.8510	(pause 0.17)	1298.0235
+1182	LES_se0_ag2_f_01	1298.0235	these things stigmatizations spill into our realities.	1300.2212
+1183	LES_se0_ag2_f_01	1300.2212	(pause 0.40)	1300.6222
+1184	LES_se0_ag2_f_01	1300.6222	And make it harder for us to live.	1301.9605
+1185	LES_int_01	1302.2216	Yeah.	1302.6273
+1186	LES_se0_ag2_f_01	1302.7205	And so, here we got a federal lawyer, says, oh.	1304.7995
+1187	LES_se0_ag2_f_01	1304.7995	(pause 0.38)	1305.1819
+1188	LES_se0_ag2_f_01	1305.1819	You have to do mandatory community service.	1306.9491
+1189	LES_se0_ag2_f_01	1306.9491	(pause 0.46)	1307.4061
+1190	LES_se0_ag2_f_01	1307.4061	And I just came out of college.	1309.0148
+1191	LES_se0_ag2_f_01	1309.0148	(pause 0.83)	1309.8401
+1192	LES_se0_ag2_f_01	1309.8401	And I got six months to find a job.	1311.6467
+1193	LES_int_01	1311.9674	[Yeah.]	1312.2332
+1194	LES_se0_ag2_f_01	1312.0933	[And] that six months passed, and I didn't have a job.	1314.2382
+1195	LES_int_01	1314.4014	Yeah.	1314.9097
+1196	LES_se0_ag2_f_01	1314.9097	Okay, I didn't.	1315.6884
+1197	LES_int_01	1315.8469	You sh- sounds like you sure tried [though. <laugh>]	1318.5409
+1198	LES_se0_ag2_f_01	1317.3519	[Yeah.]	1317.9347
+1199	LES_se0_ag2_f_01	1317.9347	(pause 0.27)	1318.2052
+1200	LES_se0_ag2_f_01	1318.2052	[And I was even] waitr- that- that was before in the middle	1320.4154
+1201	LES_se0_ag2_f_01	1320.4993	[forget about that.] When it was towards my career,	1322.5838
+1202	LES_int_01	1320.4993	[Yeah.]	1321.0356
+1203	LES_int_01	1322.7470	[Yeah. Okay, okay.]	1324.3977
+1204	LES_se0_ag2_f_01	1322.8496	[I was looking for other stuff, like teaching] and stuff like [that.]	1325.3135
+1205	LES_int_01	1325.1690	[Yeah.]	1325.6539
+1206	LES_se0_ag2_f_01	1325.7099	And	1326.1669
+1207	LES_se0_ag2_f_01	1326.1669	(pause 0.10)	1326.2694
+1208	LES_se0_ag2_f_01	1326.2694	come on. I couldn't. I couldn't find a job.	1328.1042
+1209	LES_int_01	1328.1648	Yeah.	1328.5332
+1210	LES_se0_ag2_f_01	1328.7477	And	1329.1767
+1211	LES_se0_ag2_f_01	1329.1767	(pause 0.26)	1329.4378
+1212	LES_se0_ag2_f_01	1329.4378	so, that- that effected me.	1330.5755
+1213	LES_int_01	1330.7061	[Yeah.]	1331.0838
+1214	LES_se0_ag2_f_01	1330.9439	[You know.] And.	1331.8438
+1215	LES_se0_ag2_f_01	1332.5153	Um.	1332.9723
+1216	LES_se0_ag2_f_01	1332.9723	(pause 1.19)	1334.1601
+1217	LES_se0_ag2_f_01	1334.1601	Then I see a fly- I was like totally against the community service requirement. I'm like so, I gotta do ninety-six hours cause I can't find a job yet? That's fucked up.	1340.5934
+1218	LES_int_01	1340.7799	[Yeah.]	1341.0970
+1219	LES_se0_ag2_f_01	1340.8638	[Or, my] mother and all of us get evicted?	1342.7174
+1220	LES_se0_ag2_f_01	1343.9425	See, a flyer in my building and this-	1345.3134
+1221	LES_se0_ag2_f_01	1345.3134	(pause 0.21)	1345.5186
+1222	LES_se0_ag2_f_01	1345.5186	this flyer telling people to do the community service.	1347.9946
+1223	LES_se0_ag2_f_01	1347.9946	(pause 0.20)	1348.1951
+1224	LES_se0_ag2_f_01	1348.1951	I'm like who the fuck	1349.3690
+1225	LES_se0_ag2_f_01	1349.3690	(pause 0.54)	1349.9052
+1226	LES_se0_ag2_f_01	1349.9052	is telling people to do this [shit?]	1351.2948
+1227	LES_int_01	1351.1316	[Yeah.]	1351.7657
+1228	LES_se0_ag2_f_01	1352.3066	It was GOLES.	1352.9688
+1229	LES_int_01	1354.2462	<laugh>	1355.3280
+1230	LES_int_01	1355.3280	(pause 0.16)	1355.4912
+1231	LES_int_01	1355.4912	It was?	1356.0198
+1232	LES_se0_ag2_f_01	1356.0018	It was GOLES. And there was a meeting, I said, oh.	1358.3828
+1233	LES_se0_ag2_f_01	1358.5816	Word. They're telling people to do this slave shit?	1360.4279
+1234	LES_se0_ag2_f_01	1360.4279	(pause 0.23)	1360.6565
+1235	LES_se0_ag2_f_01	1360.6565	I'm coming. I'm on my way.	1361.8998
+1236	LES_se0_ag2_f_01	1361.8998	(pause 0.17)	1362.0673
+1237	LES_se0_ag2_f_01	1362.0673	What date? Boom.	1363.0499
+1238	LES_se0_ag2_f_01	1363.0499	(pause 0.14)	1363.1865
+1239	LES_se0_ag2_f_01	1363.1865	I brought six homegirls. My homegirls that I grew up.	1365.5199
+1240	LES_se0_ag2_f_01	1365.5199	(pause 0.15)	1365.6742
+1241	LES_se0_ag2_f_01	1365.6742	I ain't seen them in years.	1366.8514
+1242	LES_se0_ag2_f_01	1366.8514	(pause 0.32)	1367.1687
+1243	LES_se0_ag2_f_01	1367.1687	I just- I got, said, listen, yo. Y'all heard about this community service shit?	1369.8238
+1244	LES_se0_ag2_f_01	1369.8238	(pause 0.18)	1370.0045
+1245	LES_se0_ag2_f_01	1370.0045	Damn. We need to go to [this meeting.]	1371.2515
+1246	LES_int_01	1370.6875	[<laugh>]	1372.2218
+1247	LES_se0_ag2_f_01	1371.6842	[Right, so,] we came in there hooded.	1373.1075
+1248	LES_se0_ag2_f_01	1373.9095	Who's presenting?	1374.6998
+1249	LES_se0_ag2_f_01	1374.6998	(pause 0.17)	1374.8673
+1250	LES_se0_ag2_f_01	1374.8673	Damaris Reyes.	1375.9072
+1251	LES_se0_ag2_f_01	1375.9072	(pause 0.84)	1376.7488
+1252	LES_se0_ag2_f_01	1376.7488	and another member that we have, Amanda Morales.	1379.4148
+1253	LES_se0_ag2_f_01	1379.4148	(pause 0.45)	1379.8598
+1254	LES_se0_ag2_f_01	1379.8598	And I'm like, yeah. Let me sign y'all little sign in sheet. Let me hear what y'all gotta say about this bullshit	1384.7337
+1255	LES_se0_ag2_f_01	1384.7337	(pause 0.60)	1385.3382
+1256	LES_se0_ag2_f_01	1385.3382	community service.	1386.2416
+1257	LES_se0_ag2_f_01	1386.2416	(pause 0.29)	1386.5324
+1258	LES_se0_ag2_f_01	1386.5324	Damaris was educating people.	1387.8588
+1259	LES_se0_ag2_f_01	1387.8588	(pause 0.36)	1388.2201
+1260	LES_se0_ag2_f_01	1388.2201	And telling them, listen.	1389.0265
+1261	LES_se0_ag2_f_01	1389.0265	(pause 0.17)	1389.1937
+1262	LES_se0_ag2_f_01	1389.1937	You have to do this community service,	1390.5994
+1263	LES_se0_ag2_f_01	1390.5994	(pause 0.16)	1390.7624
+1264	LES_se0_ag2_f_01	1390.7624	cause it's a federal law and you can get evicted.	1392.6572
+1265	LES_se0_ag2_f_01	1392.6572	(pause 0.22)	1392.8819
+1266	LES_se0_ag2_f_01	1392.8819	But, you know what?	1393.5764
+1267	LES_se0_ag2_f_01	1393.5764	(pause 0.08)	1393.6557
+1268	LES_se0_ag2_f_01	1393.6557	the same way it's a federal law,	1394.9071
+1269	LES_se0_ag2_f_01	1394.9071	(pause 0.18)	1395.0834
+1270	LES_se0_ag2_f_01	1395.0834	you can fight it on a federal level.	1396.4098
+1271	LES_se0_ag2_f_01	1396.4098	(pause 0.21)	1396.6169
+1272	LES_se0_ag2_f_01	1396.6169	And here's the ways that you can do it.	1397.8727
+1273	LES_int_01	1398.1371	[Mm-hm.]	1398.5337
+1274	LES_se0_ag2_f_01	1398.3090	[And that's] how I got involved with goo- Good Old Lower East Side.	1400.4405
+1275	LES_se0_ag2_f_01	1400.9428	It found me the work.	1402.0841
+1276	LES_se0_ag2_f_01	1402.0841	(pause 0.39)	1402.4719
+1277	LES_se0_ag2_f_01	1402.4719	But, 	1402.9037
+1278	LES_se0_ag2_f_01	1402.9037	(pause 0.84)	1403.7409
+1279	LES_se0_ag2_f_01	1403.7409	that community service requirement shit was fucked up.	1406.2245
+1280	LES_se0_ag2_f_01	1406.2245	(pause 0.41)	1406.6388
+1281	LES_se0_ag2_f_01	1406.6388	And I'm like damn. I just came out of school.	1408.7627
+1282	LES_int_01	1408.8200	Yeah.	1409.2122
+1283	LES_se0_ag2_f_01	1409.2122	Why is this only happening to me?	1411.1642
+1284	LES_se0_ag2_f_01	1411.4154	So, I'm seeing just a lot of	1412.7267
+1285	LES_se0_ag2_f_01	1412.7267	(pause 0.93)	1413.6521
+1286	LES_se0_ag2_f_01	1413.6521	how- how my community's being singled out.	1416.0272
+1287	LES_int_01	1416.2695	Yeah.	1416.6009
+1288	LES_se0_ag2_f_01	1416.6009	You know, and [people] t-	1417.5774
+1289	LES_int_01	1417.1279	[Yeah.]	1417.4690
+1290	LES_se0_ag2_f_01	1417.6629	People have these warped perceptions of like	1419.4078
+1291	LES_se0_ag2_f_01	1419.4078	(pause 0.68)	1420.0870
+1292	LES_se0_ag2_f_01	1420.0870	tax dollars. Like, the average- aver- the average ed- he average person like	1423.3576
+1293	LES_se0_ag2_f_01	1423.3576	(pause 0.38)	1423.7365
+1294	LES_se0_ag2_f_01	1423.7365	my brothers, like	1424.5385
+1295	LES_se0_ag2_f_01	1424.5385	(pause 0.24)	1424.7809
+1296	LES_se0_ag2_f_01	1424.7809	my brothers are even like	1425.7328
+1297	LES_se0_ag2_f_01	1425.7328	(pause 0.08)	1425.8121
+1298	LES_se0_ag2_f_01	1425.8121	to- they're like some cons- they have these conservative views. I'm like you	1428.4915
+1299	LES_se0_ag2_f_01	1428.4915	(pause 0.07)	1428.5576
+1300	LES_se0_ag2_f_01	1428.5576	you a black man. What are you fucking [f-]	1430.8355
+1301	LES_int_01	1430.3992	[Yeah.]	1430.8355
+1302	LES_se0_ag2_f_01	1431.0117	What do you mean? You know, [like they're even] conservative. Like	1433.8407
+1303	LES_int_01	1432.3425	[Yeah.]	1432.9021
+1304	LES_se0_ag2_f_01	1434.0170	No.	1434.3126
+1305	LES_se0_ag2_f_01	1434.3126	(pause 0.17)	1434.4844
+1306	LES_se0_ag2_f_01	1434.4844	They believe that bootstrap shit too.	1436.2955
+1307	LES_se0_ag2_f_01	1436.2955	(pause 0.17)	1436.4630
+1308	LES_se0_ag2_f_01	1436.4630	You know, like you gotta pull yourself [up at your boot] straps.	1438.9306
+1309	LES_int_01	1437.7364	[Right.]	1438.3974
+1310	LES_se0_ag2_f_01	1439.1584	you have to pull yourself up by your [bootstraps.]	1441.3000
+1311	LES_int_01	1441.0303	[Mm-hm.]	1441.5371
+1312	LES_se0_ag2_f_01	1441.6129	My- I'm working on a quote.	1442.7806
+1313	LES_se0_ag2_f_01	1442.7806	(pause 0.08)	1442.8643
+1314	LES_se0_ag2_f_01	1442.8643	I haven't refin- I haven't-	1443.8249
+1315	LES_se0_ag2_f_01	1443.8249	(pause 0.43)	1444.2564
+1316	LES_se0_ag2_f_01	1444.2564	bare with me.	1444.8160
+1317	LES_se0_ag2_f_01	1444.8160	(pause 0.15)	1444.9614
+1318	LES_se0_ag2_f_01	1444.9614	[The quote] is though.	1445.8912
+1319	LES_int_01	1444.9614	[Alright.]	1445.2372
+1320	LES_int_01	1446.9600	Try um.	1447.7752
+1321	LES_se0_ag2_f_01	1448.3158	It's like, you know, we talk about this idea of, you know. I believe in that	1451.6515
+1322	LES_se0_ag2_f_01	1451.6515	(pause 0.16)	1451.8145
+1323	LES_se0_ag2_f_01	1451.8145	I- you know, I- I'm worried ab- here it is. I'm worried about the person who actually believes	1455.6799
+1324	LES_se0_ag2_f_01	1455.6799	(pause 0.48)	1456.1646
+1325	LES_se0_ag2_f_01	1456.1646	that they can pull s- they can pull themselves up by their boot straps.	1458.8733
+1326	LES_se0_ag2_f_01	1458.8733	(pause 0.52)	1459.3888
+1327	LES_se0_ag2_f_01	1459.3888	Because, they're not thinking about the person that	1461.7483
+1328	LES_se0_ag2_f_01	1461.7483	(pause 0.34)	1462.0876
+1329	LES_se0_ag2_f_01	1462.0876	has to make	1463.0879
+1330	LES_se0_ag2_f_01	1463.0879	(pause 0.33)	1463.4140
+1331	LES_se0_ag2_f_01	1463.4140	the boots.	1464.0529
+1332	LES_int_01	1464.0529	<laugh>	1465.1766
+1333	LES_se0_ag2_f_01	1465.6304	Clean the boots.	1467.0029
+1334	LES_se0_ag2_f_01	1467.0029	(pause 1.04)	1468.0429
+1335	LES_se0_ag2_f_01	1468.0429	Sell the boot.	1469.0475
+1336	LES_int_01	1469.2414	Yeah.	1469.5984
+1337	LES_se0_ag2_f_01	1470.3783	You know what I'm saying?	1471.0621
+1338	LES_int_01	1471.1590	Yeah.	1471.5071
+1339	LES_se0_ag2_f_01	1471.8024	There's a whole other bigger picture around that fucking boot.	1474.1327
+1340	LES_int_01	1474.1327	Yeah.	1474.5690
+1341	LES_se0_ag2_f_01	1474.8655	Okay. Here we go, pull our selves [up]	1476.5960
+1342	LES_int_01	1476.4726	[A lot-] a lot goes into the boot.	1477.9355
+1343	LES_se0_ag2_f_01	1477.9355	A lot goes into [the boot.]	1479.0926
+1344	LES_int_01	1478.5524	[<laugh>]	1479.8532
+1345	LES_se0_ag2_f_01	1479.9325	You know, and we never think about those things. Like, [you know.]	1482.6873
+1346	LES_int_01	1482.3908	[Right.]	1482.7389
+1347	LES_se0_ag2_f_01	1482.8636	So, you gonna make- okay. If everybody's pulling they own selves up by their bootstraps, does that mean they're gonna start making their own boots?	1487.1133
+1348	LES_int_01	1487.1133	Yeah.	1487.5496
+1349	LES_se0_ag2_f_01	1487.9241	Is that what we	1488.5700
+1350	LES_se0_ag2_f_01	1488.5700	(pause 0.26)	1488.8344
+1351	LES_se0_ag2_f_01	1488.8344	that's what that mean? You gonna make them shine their own boots?	1491.0156
+1352	LES_se0_ag2_f_01	1491.0156	(pause 0.30)	1491.3153
+1353	LES_se0_ag2_f_01	1491.3153	If we're gonna pull ourselves up by our own boot straps,	1493.3618
+1354	LES_se0_ag2_f_01	1493.3618	(pause 0.29)	1493.6482
+1355	LES_se0_ag2_f_01	1493.6482	because then everybody's living	1495.0627
+1356	LES_se0_ag2_f_01	1495.0627	(pause 0.17)	1495.2302
+1357	LES_se0_ag2_f_01	1495.2302	equally, and nobody's doing the, you know, like come on.	1497.7762
+1358	LES_int_01	1497.9965	[Yeah.]	1498.4812
+1359	LES_se0_ag2_f_01	1498.1596	[We know this] is gonna always be	1499.5137
+1360	LES_se0_ag2_f_01	1499.9059	an unjust society. Everything- but does it have to be so hard? Does inequality have to be so hard?	1504.7280
+1361	LES_int_01	1504.7676	Yeah.	1505.1378
+1362	LES_int_01	1505.1378	(pause 0.35)	1505.4903
+1363	LES_int_01	1505.4903	Yeah.	1505.8825
+1364	LES_se0_ag2_f_01	1506.2130	You know, I don't get- you know what I'm saying. I [just]	1507.9512
+1365	LES_int_01	1507.8278	[Yeah.]	1508.2420
+1366	LES_se0_ag2_f_01	1508.3786	I always think there's gonna be some type of /irocracy/ somewhere	1511.2649
+1367	LES_se0_ag2_f_01	1511.2649	(pause 0.52)	1511.7849
+1368	LES_se0_ag2_f_01	1511.7849	but	1512.1085
+1369	LES_se0_ag2_f_01	1512.1085	(pause 1.86)	1513.9681
+1370	LES_se0_ag2_f_01	1513.9681	I mean, hierera- hierarchy. Like, you know, like boom, boom, boom, but	1516.5759
+1371	LES_se0_ag2_f_01	1516.5759	(pause 1.51)	1518.0873
+1372	LES_se0_ag2_f_01	1518.0873	the end of the day,	1518.9333
+1373	LES_se0_ag2_f_01	1518.9333	(pause 2.68)	1521.6139
+1374	LES_se0_ag2_f_01	1521.6139	g- does it have to be so hard?	1523.1870
+1375	LES_int_01	1523.5219	[Yeah.]	1523.9980
+1376	LES_se0_ag2_f_01	1523.8084	[You know?	1524.1344
+1377	LES_se0_ag2_f_01	1524.2641	But	1524.4932
+1378	LES_se0_ag2_f_01	1524.4932	(pause 1.40)	1525.8901
+1379	LES_se0_ag2_f_01	1525.8901	that's tha- the- when- when I came back from my neighborhood,	1529.1277
+1380	LES_se0_ag2_f_01	1529.1277	(pause 0.59)	1529.7182
+1381	LES_se0_ag2_f_01	1529.7182	and I'm seeing like, damn. I gotta do community service, and this gentrification,	1533.8126
+1382	LES_se0_ag2_f_01	1533.8126	(pause 0.54)	1534.3502
+1383	LES_se0_ag2_f_01	1534.3502	I wanna be up- I- I- I wanna fight this. And then [when I found-] when GOLES gave me the vehicle,	1539.3977
+1384	LES_int_01	1537.2774	[Yeah.]	1537.6564
+1385	LES_se0_ag2_f_01	1539.6224	 I decided to be	1540.6359
+1386	LES_se0_ag2_f_01	1540.6359	(pause 0.28)	1540.9179
+1387	LES_se0_ag2_f_01	1540.9179	a part of the solution. Not the problem, not the complainer.	1543.5163
+1388	LES_int_01	1543.8318	[Yeah.]	1544.2346
+1389	LES_se0_ag2_f_01	1543.8865	[And not] this person by myself.	1546.0798
+1390	LES_int_01	1546.0710	[Yeah.]	1546.4588
+1391	LES_se0_ag2_f_01	1546.2913	[You know.]	1546.7672
+1392	LES_int_01	1546.7672	Yeah.	1547.0316
+1393	LES_se0_ag2_f_01	1547.1903	I felt	1547.7455
+1394	LES_se0_ag2_f_01	1547.7455	(pause 0.27)	1548.0187
+1395	LES_se0_ag2_f_01	1548.0187	I felt like people had my back. I felt like GOLES was- /Froze/ was my gang.	1551.1394
+1396	LES_se0_ag2_f_01	1551.1394	(pause 0.08)	1551.2231
+1397	LES_se0_ag2_f_01	1551.2231	I did.	1551.5316
+1398	LES_int_01	1551.6373	Yeah.	1552.0912
+1399	LES_se0_ag2_f_01	1552.1705	And I used to do things off the strength of-	1554.0565
+1400	LES_se0_ag2_f_01	1554.0565	(pause 0.49)	1554.5441
+1401	LES_se0_ag2_f_01	1554.5441	Before I even worked there. That's why I think /RD-NAME-3/ hired me. Because I just- I would love my organization right?	1558.4380
+1402	LES_se0_ag2_f_01	1558.4380	(pause 0.48)	1558.9183
+1403	LES_se0_ag2_f_01	1558.9183	And	1559.3199
+1404	LES_se0_ag2_f_01	1559.3199	(pause 0.20)	1559.5226
+1405	LES_se0_ag2_f_01	1559.5226	I w- I would be like um	1560.9654
+1406	LES_se0_ag2_f_01	1560.9654	(pause 0.37)	1561.3399
+1407	LES_se0_ag2_f_01	1561.3399	I would tell the- I would tell business owners.	1563.2074
+1408	LES_se0_ag2_f_01	1563.2074	(pause 0.33)	1563.5379
+1409	LES_se0_ag2_f_01	1563.5379	Like, the- like uh. This business owner.	1565.1652
+1410	LES_se0_ag2_f_01	1565.1652	(pause 0.15)	1565.3155
+1411	LES_se0_ag2_f_01	1565.3155	There was a crowd. It was all crazy in the front, and I was like, listen.	1567.5403
+1412	LES_se0_ag2_f_01	1567.5403	(pause 0.90)	1568.4393
+1413	LES_se0_ag2_f_01	1568.4393	Um.	1568.9722
+1414	LES_se0_ag2_f_01	1568.9722	(pause 0.26)	1569.2322
+1415	LES_se0_ag2_f_01	1569.2322	I'm a member of Good Old Lower East Side. I'm a member of Froze.	1571.6558
+1416	LES_se0_ag2_f_01	1571.6558	(pause 1.36)	1573.0167
+1417	LES_se0_ag2_f_01	1573.0167	And we don't like this shit.	1574.3519
+1418	LES_se0_ag2_f_01	1574.3519	(pause 0.82)	1575.1759
+1419	LES_se0_ag2_f_01	1575.1759	And	1575.6870
+1420	LES_se0_ag2_f_01	1575.6870	(pause 0.48)	1576.1674
+1421	LES_se0_ag2_f_01	1576.1674	if you want people protesting in front of your business,	1578.6614
+1422	LES_se0_ag2_f_01	1578.6614	(pause 0.63)	1579.2937
+1423	LES_se0_ag2_f_01	1579.2937	then keep this going.	1580.2852
+1424	LES_int_01	1580.6201	Yeah.	1581.0740
+1425	LES_se0_ag2_f_01	1581.2546	And, actually, the guy's like, nah man.	1582.8674
+1426	LES_se0_ag2_f_01	1582.8674	(pause 0.08)	1582.9467
+1427	LES_se0_ag2_f_01	1582.9467	I feel y'all. I'm from the neighborhood too. He was a guy from the neighborhood [too.]	1585.5362
+1428	LES_int_01	1585.2541	[<laugh>]	1586.1986
+1429	LES_se0_ag2_f_01	1585.8545	[And he was like] nah. I know they act all cra-	1587.2910
+1430	LES_se0_ag2_f_01	1587.4673	I said, man, control this shit.	1588.9611
+1431	LES_se0_ag2_f_01	1588.9611	(pause 0.34)	1589.3048
+1432	LES_se0_ag2_f_01	1589.3048	Control this fucking	1590.5637
+1433	LES_se0_ag2_f_01	1590.5637	(pause 0.26)	1590.8281
+1434	LES_se0_ag2_f_01	1590.8281	party on the block. Because I can't party on the block.	1593.0534
+1435	LES_se0_ag2_f_01	1593.0534	(pause 0.33)	1593.3839
+1436	LES_se0_ag2_f_01	1593.3839	When I stand on the block, I- I deal with youth.	1595.5487
+1437	LES_se0_ag2_f_01	1595.5487	(pause 0.61)	1596.1625
+1438	LES_se0_ag2_f_01	1596.1625	When we stand on the block and talk,	1597.6828
+1439	LES_se0_ag2_f_01	1597.6828	(pause 0.73)	1598.4098
+1440	LES_se0_ag2_f_01	1598.4098	cops stop us and tell us to keep it moving.	1600.4070
+1441	LES_se0_ag2_f_01	1600.4070	(pause 0.95)	1601.3544
+1442	LES_se0_ag2_f_01	1601.3544	Or, I seen kids get strip searched in front of fucking mad people.	1604.8302
+1443	LES_se0_ag2_f_01	1604.8302	(pause 0.32)	1605.1474
+1444	LES_se0_ag2_f_01	1605.1474	Where cops pull down they pants.	1606.7426
+1445	LES_se0_ag2_f_01	1606.7426	(pause 3.08)	1609.8237
+1446	LES_se0_ag2_f_01	1609.8237	Pulling they pants.	1610.8857
+1447	LES_se0_ag2_f_01	1610.8857	(pause 0.39)	1611.2778
+1448	LES_se0_ag2_f_01	1611.2778	And you got six squad cars.	1613.0105
+1449	LES_se0_ag2_f_01	1613.0105	(pause 0.24)	1613.2484
+1450	LES_se0_ag2_f_01	1613.2484	And I'm like what was that kid doing? Riding his bike on the sidewalk.	1616.2140
+1451	LES_int_01	1617.3866	/inaudible/	1618.3389
+1452	LES_se0_ag2_f_01	1618.6075	You know.	1619.0438
+1453	LES_se0_ag2_f_01	1619.0438	(pause 0.20)	1619.2421
+1454	LES_se0_ag2_f_01	1619.2421	I've been harassed. I've had a cop pull a gun	1621.2856
+1455	LES_se0_ag2_f_01	1621.2856	(pause 1.04)	1622.3299
+1456	LES_se0_ag2_f_01	1622.3299	<ts> out on me once.	1623.1540
+1457	LES_se0_ag2_f_01	1623.1540	(pause 0.48)	1623.6343
+1458	LES_se0_ag2_f_01	1623.6343	They had their guns drawn	1624.7667
+1459	LES_int_01	1625.0532	[Yeah.]	1625.2294
+1460	LES_se0_ag2_f_01	1625.1193	[Because] we was in the park playing basketball. We had beads of sweat coming down our heads.	1628.5508
+1461	LES_se0_ag2_f_01	1628.8549	This is when I was younger.	1629.7362
+1462	LES_se0_ag2_f_01	1629.7362	(pause 0.64)	1630.3751
+1463	LES_se0_ag2_f_01	1630.3751	And we was like, yo.	1631.6387
+1464	LES_se0_ag2_f_01	1631.6387	(pause 0.77)	1632.4055
+1465	LES_se0_ag2_f_01	1632.4055	But, and this is when they started enforcing all that shit.	1634.6219
+1466	LES_se0_ag2_f_01	1634.6219	(pause 0.20)	1634.8202
+1467	LES_se0_ag2_f_01	1634.8202	All the parks gotta be closed.	1636.3748
+1468	LES_se0_ag2_f_01	1636.3748	(pause 0.27)	1636.6436
+1469	LES_se0_ag2_f_01	1636.6436	That sign was always there, but nobody ever f- forced that shit.	1639.5216
+1470	LES_se0_ag2_f_01	1639.5216	(pause 0.20)	1639.7243
+1471	LES_se0_ag2_f_01	1639.7243	Now, they enforcing it. No. The parks gotta be closed.	1642.0862
+1472	LES_se0_ag2_f_01	1642.0862	(pause 0.20)	1642.2844
+1473	LES_se0_ag2_f_01	1642.2844	And now, I got a gun pointed at me.	1644.0162
+1474	LES_se0_ag2_f_01	1644.0162	(pause 2.29)	1646.3079
+1475	LES_se0_ag2_f_01	1646.3079	Man.	1646.7838
